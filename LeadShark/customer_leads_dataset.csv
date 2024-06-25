@@ -1,0 +1,1001 @@
+LeadID,LeadName,Contacted,$$$ Potential,Lead Source,Industry,Initial Contact Date,Last Follow-up Date,Lead Score,Interested Products
+1,Lead_1,TRUE,14114.15,Referral,Retail,00:00.0,00:00.0,59,Product B
+2,Lead_2,FALSE,10953.88,Email Campaign,Retail,44:41.1,13:41.6,2,Product D
+3,Lead_3,TRUE,6535.79,Social Media,Technology,29:22.2,27:23.2,29,Product D
+4,Lead_4,TRUE,16369,Social Media,Finance,14:03.2,41:04.9,68,Product C
+5,Lead_5,TRUE,13852.26,Referral,Education,58:44.3,54:46.5,65,Product D
+6,Lead_6,FALSE,3671.03,Website,Education,43:25.4,08:28.1,83,Product A
+7,Lead_7,TRUE,18263.08,Email Campaign,Technology,28:06.5,22:09.7,26,Product B
+8,Lead_8,TRUE,16539.48,Social Media,Finance,12:47.6,35:51.4,89,Product B
+9,Lead_9,TRUE,19021.1,Referral,Healthcare,57:28.6,49:33.0,10,Product D
+10,Lead_10,FALSE,14651.53,Social Media,Technology,42:09.7,03:14.6,53,Product D
+11,Lead_11,TRUE,12461.6,Email Campaign,Technology,26:50.8,16:56.2,79,Product A
+12,Lead_12,TRUE,8655.74,Email Campaign,Education,11:31.9,30:37.8,59,Product C
+13,Lead_13,TRUE,18688.21,Cold Call,Technology,56:13.0,44:19.5,22,Product D
+14,Lead_14,TRUE,17388.25,Referral,Technology,40:54.1,58:01.1,51,Product D
+15,Lead_15,FALSE,1381.76,Email Campaign,Technology,25:35.1,11:42.7,48,Product D
+16,Lead_16,TRUE,1014.16,Cold Call,Education,10:16.2,25:24.3,21,Product D
+17,Lead_17,FALSE,7841.04,Cold Call,Healthcare,54:57.3,39:05.9,22,Product B
+18,Lead_18,FALSE,16305.79,Social Media,Healthcare,39:38.4,52:47.6,98,Product D
+19,Lead_19,FALSE,19751.88,Social Media,Technology,24:19.5,06:29.2,30,Product B
+20,Lead_20,TRUE,3433.13,Cold Call,Education,09:00.5,20:10.8,25,Product D
+21,Lead_21,FALSE,12085.55,Social Media,Healthcare,53:41.6,33:52.4,28,Product C
+22,Lead_22,TRUE,7927.37,Email Campaign,Healthcare,38:22.7,47:34.1,65,Product A
+23,Lead_23,FALSE,19413.33,Website,Healthcare,23:03.8,01:15.7,45,Product C
+24,Lead_24,FALSE,16921.32,Email Campaign,Education,07:44.9,14:57.3,68,Product D
+25,Lead_25,FALSE,16847.41,Cold Call,Education,52:25.9,28:38.9,7,Product D
+26,Lead_26,FALSE,9639.52,Cold Call,Technology,37:07.0,42:20.5,49,Product D
+27,Lead_27,FALSE,8588.98,Email Campaign,Retail,21:48.1,56:02.2,9,Product C
+28,Lead_28,FALSE,5831.44,Social Media,Healthcare,06:29.2,09:43.8,36,Product D
+29,Lead_29,FALSE,1599.32,Social Media,Retail,51:10.3,23:25.4,83,Product C
+30,Lead_30,FALSE,17362.09,Cold Call,Education,35:51.4,37:07.0,1,Product B
+31,Lead_31,TRUE,16351.57,Referral,Education,20:32.4,50:48.6,10,Product A
+32,Lead_32,TRUE,19994.49,Social Media,Education,05:13.5,04:30.3,36,Product A
+33,Lead_33,FALSE,19934.42,Email Campaign,Retail,49:54.6,18:11.9,73,Product C
+34,Lead_34,FALSE,11330.92,Social Media,Education,34:35.7,31:53.5,46,Product B
+35,Lead_35,FALSE,15495.25,Email Campaign,Technology,19:16.8,45:35.1,32,Product C
+36,Lead_36,TRUE,18922.93,Cold Call,Education,03:57.8,59:16.8,32,Product B
+37,Lead_37,FALSE,17068.12,Social Media,Finance,48:38.9,12:58.4,6,Product D
+38,Lead_38,TRUE,5323.29,Email Campaign,Retail,33:20.0,26:40.0,48,Product B
+39,Lead_39,TRUE,9285.61,Cold Call,Finance,18:01.1,40:21.6,38,Product B
+40,Lead_40,TRUE,3018.61,Referral,Education,02:42.2,54:03.2,17,Product B
+41,Lead_41,TRUE,19104,Email Campaign,Technology,47:23.2,07:44.9,74,Product A
+42,Lead_42,TRUE,12320.41,Referral,Healthcare,32:04.3,21:26.5,27,Product B
+43,Lead_43,FALSE,4958.53,Referral,Education,16:45.4,35:08.1,54,Product D
+44,Lead_44,FALSE,13598.16,Website,Technology,01:26.5,48:49.7,50,Product D
+45,Lead_45,FALSE,12553.5,Social Media,Retail,46:07.6,02:31.4,35,Product D
+46,Lead_46,FALSE,7484.17,Email Campaign,Finance,30:48.6,16:13.0,85,Product B
+47,Lead_47,FALSE,2714.37,Referral,Finance,15:29.7,29:54.6,25,Product C
+48,Lead_48,TRUE,13595.68,Website,Finance,00:10.8,43:36.2,28,Product C
+49,Lead_49,FALSE,10646,Cold Call,Retail,44:51.9,57:17.8,15,Product D
+50,Lead_50,FALSE,15560.21,Email Campaign,Technology,29:33.0,10:59.5,4,Product A
+51,Lead_51,TRUE,10643.19,Referral,Retail,14:14.1,24:41.1,93,Product C
+52,Lead_52,FALSE,17117.54,Social Media,Finance,58:55.1,38:22.7,73,Product B
+53,Lead_53,TRUE,11262.18,Website,Education,43:36.2,52:04.3,27,Product C
+54,Lead_54,FALSE,11438.29,Referral,Healthcare,28:17.3,05:45.9,26,Product D
+55,Lead_55,TRUE,17594.75,Social Media,Retail,12:58.4,19:27.6,19,Product A
+56,Lead_56,FALSE,8367.92,Referral,Retail,57:39.5,33:09.2,92,Product C
+57,Lead_57,FALSE,3113.3,Email Campaign,Technology,42:20.5,46:50.8,17,Product C
+58,Lead_58,TRUE,1061.26,Email Campaign,Technology,27:01.6,00:32.4,43,Product D
+59,Lead_59,TRUE,15225.18,Email Campaign,Retail,11:42.7,14:14.1,41,Product A
+60,Lead_60,TRUE,12596.04,Website,Finance,56:23.8,27:55.7,42,Product A
+61,Lead_61,TRUE,14229.56,Email Campaign,Healthcare,41:04.9,41:37.3,50,Product D
+62,Lead_62,TRUE,4652.8,Social Media,Technology,25:45.9,55:18.9,84,Product B
+63,Lead_63,TRUE,3159.24,Referral,Finance,10:27.0,09:00.5,40,Product C
+64,Lead_64,TRUE,783.62,Cold Call,Education,55:08.1,22:42.2,39,Product B
+65,Lead_65,TRUE,7336.46,Social Media,Technology,39:49.2,36:23.8,23,Product C
+66,Lead_66,FALSE,12003.39,Social Media,Finance,24:30.3,50:05.4,96,Product C
+67,Lead_67,FALSE,8148.76,Email Campaign,Finance,09:11.4,03:47.0,52,Product B
+68,Lead_68,TRUE,9030.76,Website,Healthcare,53:52.4,17:28.6,47,Product D
+69,Lead_69,FALSE,18131.09,Referral,Healthcare,38:33.5,31:10.3,63,Product D
+70,Lead_70,FALSE,7290.98,Website,Education,23:14.6,44:51.9,97,Product C
+71,Lead_71,FALSE,10522.8,Referral,Finance,07:55.7,58:33.5,69,Product D
+72,Lead_72,FALSE,15781.23,Referral,Finance,52:36.8,12:15.1,43,Product C
+73,Lead_73,TRUE,8232.58,Website,Healthcare,37:17.8,25:56.8,48,Product D
+74,Lead_74,FALSE,12630.69,Social Media,Technology,21:58.9,39:38.4,34,Product C
+75,Lead_75,TRUE,17316.09,Referral,Technology,06:40.0,53:20.0,40,Product D
+76,Lead_76,FALSE,19015.65,Website,Retail,51:21.1,07:01.6,75,Product A
+77,Lead_77,FALSE,3367.93,Referral,Healthcare,36:02.2,20:43.2,61,Product B
+78,Lead_78,FALSE,18568.46,Cold Call,Retail,20:43.2,34:24.9,50,Product A
+79,Lead_79,TRUE,10096.27,Social Media,Healthcare,05:24.3,48:06.5,67,Product B
+80,Lead_80,FALSE,5535.77,Email Campaign,Education,50:05.4,01:48.1,62,Product B
+81,Lead_81,TRUE,9453.15,Referral,Finance,34:46.5,15:29.7,58,Product C
+82,Lead_82,FALSE,19610.64,Cold Call,Education,19:27.6,29:11.4,33,Product B
+83,Lead_83,TRUE,10106.05,Email Campaign,Healthcare,04:08.6,42:53.0,75,Product A
+84,Lead_84,FALSE,6910.66,Email Campaign,Finance,48:49.7,56:34.6,16,Product A
+85,Lead_85,TRUE,12851.32,Referral,Technology,33:30.8,10:16.2,82,Product D
+86,Lead_86,TRUE,5182.84,Website,Technology,18:11.9,23:57.8,94,Product A
+87,Lead_87,FALSE,1979.33,Referral,Retail,02:53.0,37:39.5,48,Product D
+88,Lead_88,TRUE,3013.15,Cold Call,Healthcare,47:34.1,51:21.1,10,Product B
+89,Lead_89,FALSE,2996.89,Email Campaign,Healthcare,32:15.1,05:02.7,82,Product A
+90,Lead_90,FALSE,3462.1,Referral,Technology,16:56.2,18:44.3,38,Product B
+91,Lead_91,FALSE,3207.13,Website,Education,01:37.3,32:25.9,19,Product A
+92,Lead_92,FALSE,12997.06,Referral,Finance,46:18.4,46:07.6,36,Product A
+93,Lead_93,FALSE,4046.66,Social Media,Education,30:59.5,59:49.2,59,Product D
+94,Lead_94,FALSE,7240.51,Website,Education,15:40.5,13:30.8,63,Product B
+95,Lead_95,FALSE,17987.37,Cold Call,Technology,00:21.6,27:12.4,77,Product A
+96,Lead_96,FALSE,9742.25,Email Campaign,Technology,45:02.7,40:54.1,46,Product C
+97,Lead_97,FALSE,13517.38,Referral,Technology,29:43.8,54:35.7,3,Product B
+98,Lead_98,FALSE,3860.24,Website,Retail,14:24.9,08:17.3,74,Product B
+99,Lead_99,FALSE,4249.64,Social Media,Education,59:05.9,21:58.9,65,Product B
+100,Lead_100,TRUE,1296.94,Website,Healthcare,43:47.0,35:40.5,91,Product D
+101,Lead_101,TRUE,3794.23,Social Media,Finance,28:28.1,49:22.2,8,Product C
+102,Lead_102,FALSE,5932.51,Cold Call,Retail,13:09.2,03:03.8,51,Product B
+103,Lead_103,FALSE,3951.7,Email Campaign,Healthcare,57:50.3,16:45.4,81,Product A
+104,Lead_104,FALSE,2229.7,Cold Call,Education,42:31.4,30:27.0,73,Product A
+105,Lead_105,FALSE,2852.4,Referral,Technology,27:12.4,44:08.6,6,Product D
+106,Lead_106,FALSE,9485.19,Website,Education,11:53.5,57:50.3,89,Product A
+107,Lead_107,FALSE,4523.51,Social Media,Finance,56:34.6,11:31.9,39,Product B
+108,Lead_108,FALSE,7603.26,Social Media,Retail,41:15.7,25:13.5,60,Product A
+109,Lead_109,FALSE,10316.64,Website,Retail,25:56.8,38:55.1,28,Product B
+110,Lead_110,TRUE,13962.7,Website,Finance,10:37.8,52:36.8,97,Product A
+111,Lead_111,FALSE,1266.59,Referral,Healthcare,55:18.9,06:18.4,54,Product C
+112,Lead_112,TRUE,16088.5,Cold Call,Healthcare,40:00.0,20:00.0,37,Product D
+113,Lead_113,FALSE,12744.06,Social Media,Retail,24:41.1,33:41.6,9,Product D
+114,Lead_114,FALSE,2094.3,Referral,Retail,09:22.2,47:23.2,82,Product C
+115,Lead_115,TRUE,17534.78,Cold Call,Technology,54:03.2,01:04.9,56,Product C
+116,Lead_116,FALSE,18457.01,Referral,Healthcare,38:44.3,14:46.5,59,Product D
+117,Lead_117,TRUE,1691.02,Social Media,Finance,23:25.4,28:28.1,85,Product C
+118,Lead_118,FALSE,5899.11,Website,Healthcare,08:06.5,42:09.7,2,Product B
+119,Lead_119,FALSE,16220.92,Website,Technology,52:47.6,55:51.4,61,Product A
+120,Lead_120,TRUE,15091.06,Cold Call,Retail,37:28.6,09:33.0,58,Product D
+121,Lead_121,FALSE,4098.16,Email Campaign,Retail,22:09.7,23:14.6,60,Product C
+122,Lead_122,TRUE,4582.31,Cold Call,Technology,06:50.8,36:56.2,40,Product B
+123,Lead_123,FALSE,7724.21,Email Campaign,Finance,51:31.9,50:37.8,36,Product D
+124,Lead_124,TRUE,9948.2,Referral,Retail,36:13.0,04:19.5,37,Product C
+125,Lead_125,TRUE,12555.97,Referral,Education,20:54.1,18:01.1,79,Product D
+126,Lead_126,FALSE,7693.82,Social Media,Retail,05:35.1,31:42.7,92,Product C
+127,Lead_127,FALSE,9519.43,Email Campaign,Education,50:16.2,45:24.3,18,Product D
+128,Lead_128,TRUE,15075.68,Social Media,Technology,34:57.3,59:05.9,98,Product B
+129,Lead_129,FALSE,1215.32,Website,Technology,19:38.4,12:47.6,63,Product B
+130,Lead_130,FALSE,5422.52,Email Campaign,Retail,04:19.5,26:29.2,22,Product A
+131,Lead_131,FALSE,14410.32,Cold Call,Healthcare,49:00.5,40:10.8,11,Product D
+132,Lead_132,TRUE,17956.53,Website,Education,33:41.6,53:52.4,58,Product A
+133,Lead_133,TRUE,10477.71,Website,Finance,18:22.7,07:34.1,57,Product D
+134,Lead_134,TRUE,10876.21,Cold Call,Retail,03:03.8,21:15.7,77,Product C
+135,Lead_135,TRUE,2589.85,Website,Finance,47:44.9,34:57.3,4,Product C
+136,Lead_136,TRUE,9224.54,Email Campaign,Retail,32:25.9,48:38.9,86,Product A
+137,Lead_137,TRUE,10886.04,Social Media,Healthcare,17:07.0,02:20.5,7,Product D
+138,Lead_138,TRUE,5228.17,Website,Healthcare,01:48.1,16:02.2,61,Product A
+139,Lead_139,TRUE,5750.24,Email Campaign,Healthcare,46:29.2,29:43.8,54,Product B
+140,Lead_140,TRUE,7857.04,Referral,Healthcare,31:10.3,43:25.4,88,Product A
+141,Lead_141,FALSE,891.39,Email Campaign,Technology,15:51.4,57:07.0,68,Product A
+142,Lead_142,TRUE,6780.54,Social Media,Technology,00:32.4,10:48.6,92,Product C
+143,Lead_143,FALSE,4623.24,Email Campaign,Education,45:13.5,24:30.3,79,Product A
+144,Lead_144,FALSE,6886.2,Cold Call,Finance,29:54.6,38:11.9,1,Product D
+145,Lead_145,FALSE,2835.36,Social Media,Retail,14:35.7,51:53.5,55,Product C
+146,Lead_146,TRUE,17865.28,Referral,Retail,59:16.8,05:35.1,3,Product A
+147,Lead_147,TRUE,12075.05,Cold Call,Technology,43:57.8,19:16.8,78,Product B
+148,Lead_148,TRUE,13742.5,Email Campaign,Retail,28:38.9,32:58.4,38,Product A
+149,Lead_149,TRUE,15888.84,Social Media,Technology,13:20.0,46:40.0,1,Product A
+150,Lead_150,FALSE,10219.62,Referral,Education,58:01.1,00:21.6,38,Product A
+151,Lead_151,TRUE,2194.95,Cold Call,Finance,42:42.2,14:03.2,85,Product C
+152,Lead_152,TRUE,10973.58,Referral,Education,27:23.2,27:44.9,29,Product D
+153,Lead_153,TRUE,11943.4,Email Campaign,Healthcare,12:04.3,41:26.5,5,Product B
+154,Lead_154,TRUE,15036.07,Referral,Healthcare,56:45.4,55:08.1,74,Product A
+155,Lead_155,TRUE,8917.36,Website,Healthcare,41:26.5,08:49.7,92,Product D
+156,Lead_156,FALSE,2987.82,Cold Call,Education,26:07.6,22:31.4,21,Product D
+157,Lead_157,TRUE,6033.63,Referral,Retail,10:48.6,36:13.0,71,Product C
+158,Lead_158,FALSE,7580.1,Email Campaign,Finance,55:29.7,49:54.6,67,Product B
+159,Lead_159,TRUE,13095.39,Email Campaign,Healthcare,40:10.8,03:36.2,47,Product C
+160,Lead_160,FALSE,11630.18,Referral,Healthcare,24:51.9,17:17.8,84,Product D
+161,Lead_161,TRUE,7443.89,Email Campaign,Healthcare,09:33.0,30:59.5,83,Product D
+162,Lead_162,TRUE,19737.05,Social Media,Finance,54:14.1,44:41.1,35,Product D
+163,Lead_163,FALSE,12312.61,Social Media,Healthcare,38:55.1,58:22.7,68,Product C
+164,Lead_164,FALSE,5125.92,Social Media,Finance,23:36.2,12:04.3,69,Product B
+165,Lead_165,FALSE,2484.76,Website,Healthcare,08:17.3,25:45.9,1,Product A
+166,Lead_166,TRUE,3480.75,Referral,Education,52:58.4,39:27.6,68,Product C
+167,Lead_167,FALSE,5296.18,Website,Education,37:39.5,53:09.2,12,Product D
+168,Lead_168,TRUE,3633.29,Email Campaign,Finance,22:20.5,06:50.8,60,Product C
+169,Lead_169,TRUE,4138.06,Website,Education,07:01.6,20:32.4,27,Product D
+170,Lead_170,FALSE,6059.36,Email Campaign,Finance,51:42.7,34:14.1,56,Product A
+171,Lead_171,FALSE,3880.79,Email Campaign,Education,36:23.8,47:55.7,23,Product A
+172,Lead_172,TRUE,17986.93,Cold Call,Education,21:04.9,01:37.3,25,Product B
+173,Lead_173,TRUE,2064.56,Social Media,Finance,05:45.9,15:18.9,21,Product D
+174,Lead_174,FALSE,10727.97,Email Campaign,Retail,50:27.0,29:00.5,61,Product B
+175,Lead_175,FALSE,8502.74,Cold Call,Education,35:08.1,42:42.2,63,Product B
+176,Lead_176,FALSE,19656.38,Social Media,Healthcare,19:49.2,56:23.8,52,Product A
+177,Lead_177,TRUE,2684.76,Email Campaign,Retail,04:30.3,10:05.4,88,Product C
+178,Lead_178,TRUE,8258.18,Email Campaign,Finance,49:11.4,23:47.0,25,Product C
+179,Lead_179,TRUE,19404.67,Website,Retail,33:52.4,37:28.6,55,Product B
+180,Lead_180,TRUE,17377.39,Website,Technology,18:33.5,51:10.3,46,Product A
+181,Lead_181,TRUE,16432.91,Social Media,Technology,03:14.6,04:51.9,32,Product D
+182,Lead_182,TRUE,5529.11,Email Campaign,Education,47:55.7,18:33.5,55,Product C
+183,Lead_183,FALSE,3832.31,Referral,Education,32:36.8,32:15.1,96,Product B
+184,Lead_184,TRUE,13538.54,Website,Healthcare,17:17.8,45:56.8,5,Product C
+185,Lead_185,TRUE,18622.83,Social Media,Retail,01:58.9,59:38.4,36,Product C
+186,Lead_186,TRUE,11356.88,Email Campaign,Technology,46:40.0,13:20.0,49,Product D
+187,Lead_187,FALSE,11646.45,Email Campaign,Education,31:21.1,27:01.6,58,Product A
+188,Lead_188,TRUE,5959.59,Referral,Retail,16:02.2,40:43.2,39,Product D
+189,Lead_189,TRUE,15505.11,Social Media,Education,00:43.2,54:24.9,80,Product A
+190,Lead_190,FALSE,4147.35,Email Campaign,Education,45:24.3,08:06.5,97,Product C
+191,Lead_191,TRUE,6811.75,Website,Technology,30:05.4,21:48.1,85,Product B
+192,Lead_192,TRUE,8796.01,Referral,Technology,14:46.5,35:29.7,61,Product D
+193,Lead_193,TRUE,10398.4,Social Media,Education,59:27.6,49:11.4,9,Product A
+194,Lead_194,TRUE,5226.99,Referral,Finance,44:08.6,02:53.0,6,Product C
+195,Lead_195,TRUE,2739.32,Website,Education,28:49.7,16:34.6,35,Product A
+196,Lead_196,FALSE,12407.09,Social Media,Education,13:30.8,30:16.2,39,Product A
+197,Lead_197,FALSE,6128.3,Referral,Healthcare,58:11.9,43:57.8,22,Product A
+198,Lead_198,FALSE,11834.15,Cold Call,Healthcare,42:53.0,57:39.5,41,Product C
+199,Lead_199,TRUE,3510.07,Website,Healthcare,27:34.1,11:21.1,5,Product B
+200,Lead_200,TRUE,9882.23,Website,Finance,12:15.1,25:02.7,42,Product B
+201,Lead_201,TRUE,10885.49,Website,Finance,56:56.2,38:44.3,87,Product B
+202,Lead_202,FALSE,1510.56,Cold Call,Education,41:37.3,52:25.9,81,Product A
+203,Lead_203,TRUE,7063.78,Cold Call,Healthcare,26:18.4,06:07.6,76,Product C
+204,Lead_204,TRUE,3121.09,Email Campaign,Finance,10:59.5,19:49.2,87,Product A
+205,Lead_205,FALSE,1735.81,Referral,Technology,55:40.5,33:30.8,80,Product B
+206,Lead_206,TRUE,19804.22,Email Campaign,Education,40:21.6,47:12.4,67,Product B
+207,Lead_207,FALSE,6785.9,Referral,Retail,25:02.7,00:54.1,30,Product C
+208,Lead_208,FALSE,16292.55,Cold Call,Education,09:43.8,14:35.7,57,Product A
+209,Lead_209,FALSE,5465.49,Cold Call,Retail,54:24.9,28:17.3,86,Product D
+210,Lead_210,TRUE,13789.3,Email Campaign,Healthcare,39:05.9,41:58.9,73,Product D
+211,Lead_211,TRUE,15324.44,Social Media,Retail,23:47.0,55:40.5,29,Product B
+212,Lead_212,TRUE,12114.96,Email Campaign,Healthcare,08:28.1,09:22.2,37,Product C
+213,Lead_213,TRUE,9695.74,Referral,Technology,53:09.2,23:03.8,87,Product A
+214,Lead_214,TRUE,8530.9,Email Campaign,Retail,37:50.3,36:45.4,13,Product A
+215,Lead_215,TRUE,7302.93,Website,Education,22:31.4,50:27.0,32,Product B
+216,Lead_216,TRUE,18625.82,Referral,Healthcare,07:12.4,04:08.6,46,Product B
+217,Lead_217,FALSE,16697.08,Referral,Education,51:53.5,17:50.3,23,Product A
+218,Lead_218,TRUE,19318.02,Social Media,Finance,36:34.6,31:31.9,45,Product A
+219,Lead_219,FALSE,2923.8,Cold Call,Healthcare,21:15.7,45:13.5,17,Product B
+220,Lead_220,TRUE,14751.92,Referral,Retail,05:56.8,58:55.1,85,Product A
+221,Lead_221,TRUE,18797.64,Cold Call,Healthcare,50:37.8,12:36.8,66,Product D
+222,Lead_222,TRUE,4034.04,Email Campaign,Education,35:18.9,26:18.4,6,Product B
+223,Lead_223,FALSE,1796.68,Website,Technology,20:00.0,40:00.0,18,Product A
+224,Lead_224,FALSE,14951.85,Social Media,Healthcare,04:41.1,53:41.6,94,Product B
+225,Lead_225,FALSE,11702.23,Cold Call,Retail,49:22.2,07:23.2,22,Product C
+226,Lead_226,FALSE,16915.66,Referral,Finance,34:03.2,21:04.9,33,Product B
+227,Lead_227,TRUE,3225.56,Cold Call,Technology,18:44.3,34:46.5,30,Product B
+228,Lead_228,FALSE,16007.71,Referral,Finance,03:25.4,48:28.1,81,Product C
+229,Lead_229,TRUE,4431.73,Cold Call,Healthcare,48:06.5,02:09.7,32,Product D
+230,Lead_230,TRUE,3691.29,Referral,Education,32:47.6,15:51.4,42,Product A
+231,Lead_231,FALSE,3703.18,Email Campaign,Education,17:28.6,29:33.0,78,Product C
+232,Lead_232,FALSE,16384.21,Referral,Retail,02:09.7,43:14.6,10,Product B
+233,Lead_233,FALSE,13471.35,Referral,Education,46:50.8,56:56.2,36,Product A
+234,Lead_234,FALSE,10699.78,Website,Technology,31:31.9,10:37.8,34,Product C
+235,Lead_235,FALSE,7497.19,Referral,Education,16:13.0,24:19.5,73,Product A
+236,Lead_236,FALSE,17605.41,Website,Retail,00:54.1,38:01.1,28,Product A
+237,Lead_237,FALSE,8152.68,Social Media,Healthcare,45:35.1,51:42.7,11,Product C
+238,Lead_238,FALSE,16423.69,Website,Healthcare,30:16.2,05:24.3,78,Product A
+239,Lead_239,TRUE,9063.13,Email Campaign,Education,14:57.3,19:05.9,39,Product D
+240,Lead_240,FALSE,7850.42,Website,Finance,59:38.4,32:47.6,47,Product C
+241,Lead_241,FALSE,9522.26,Social Media,Healthcare,44:19.5,46:29.2,19,Product D
+242,Lead_242,TRUE,6376.87,Email Campaign,Education,29:00.5,00:10.8,15,Product B
+243,Lead_243,FALSE,15078.38,Cold Call,Retail,13:41.6,13:52.4,28,Product A
+244,Lead_244,TRUE,10303.05,Cold Call,Education,58:22.7,27:34.1,24,Product B
+245,Lead_245,TRUE,5028.15,Website,Healthcare,43:03.8,41:15.7,72,Product B
+246,Lead_246,FALSE,18041.7,Website,Retail,27:44.9,54:57.3,9,Product A
+247,Lead_247,TRUE,7985.88,Social Media,Education,12:25.9,08:38.9,47,Product C
+248,Lead_248,TRUE,11099.28,Social Media,Technology,57:07.0,22:20.5,33,Product A
+249,Lead_249,TRUE,18176.21,Referral,Retail,41:48.1,36:02.2,62,Product B
+250,Lead_250,TRUE,12672.64,Social Media,Technology,26:29.2,49:43.8,97,Product B
+251,Lead_251,FALSE,2779.51,Referral,Finance,11:10.3,03:25.4,19,Product C
+252,Lead_252,TRUE,18826.73,Email Campaign,Retail,55:51.4,17:07.0,67,Product A
+253,Lead_253,FALSE,12740.31,Website,Technology,40:32.4,30:48.6,74,Product B
+254,Lead_254,TRUE,7030.66,Email Campaign,Healthcare,25:13.5,44:30.3,40,Product D
+255,Lead_255,TRUE,3215.81,Social Media,Healthcare,09:54.6,58:11.9,47,Product B
+256,Lead_256,TRUE,15983.49,Email Campaign,Finance,54:35.7,11:53.5,65,Product B
+257,Lead_257,TRUE,12591.42,Email Campaign,Retail,39:16.8,25:35.1,29,Product C
+258,Lead_258,FALSE,10902.49,Email Campaign,Retail,23:57.8,39:16.8,50,Product D
+259,Lead_259,FALSE,17930.91,Social Media,Retail,08:38.9,52:58.4,98,Product B
+260,Lead_260,TRUE,15877.65,Email Campaign,Finance,53:20.0,06:40.0,13,Product B
+261,Lead_261,TRUE,3457.66,Referral,Retail,38:01.1,20:21.6,1,Product D
+262,Lead_262,FALSE,6578.58,Social Media,Healthcare,22:42.2,34:03.2,34,Product A
+263,Lead_263,TRUE,5345.54,Email Campaign,Technology,07:23.2,47:44.9,93,Product A
+264,Lead_264,TRUE,15006.95,Social Media,Healthcare,52:04.3,01:26.5,48,Product B
+265,Lead_265,TRUE,1153.88,Cold Call,Healthcare,36:45.4,15:08.1,77,Product B
+266,Lead_266,FALSE,11612.85,Referral,Technology,21:26.5,28:49.7,48,Product A
+267,Lead_267,FALSE,15367.94,Email Campaign,Healthcare,06:07.6,42:31.4,49,Product C
+268,Lead_268,FALSE,17596.93,Cold Call,Finance,50:48.6,56:13.0,64,Product D
+269,Lead_269,TRUE,7170.59,Cold Call,Technology,35:29.7,09:54.6,61,Product D
+270,Lead_270,TRUE,16514.52,Social Media,Healthcare,20:10.8,23:36.2,29,Product C
+271,Lead_271,FALSE,2657.32,Cold Call,Education,04:51.9,37:17.8,39,Product C
+272,Lead_272,FALSE,17005.82,Referral,Healthcare,49:33.0,50:59.5,88,Product C
+273,Lead_273,FALSE,2986.03,Referral,Finance,34:14.1,04:41.1,26,Product C
+274,Lead_274,FALSE,8247.1,Website,Retail,18:55.1,18:22.7,17,Product C
+275,Lead_275,TRUE,16047.26,Referral,Healthcare,03:36.2,32:04.3,71,Product C
+276,Lead_276,FALSE,3423.39,Cold Call,Retail,48:17.3,45:45.9,13,Product D
+277,Lead_277,TRUE,4970.4,Referral,Education,32:58.4,59:27.6,69,Product C
+278,Lead_278,FALSE,14583.93,Social Media,Healthcare,17:39.5,13:09.2,26,Product A
+279,Lead_279,TRUE,14540.71,Website,Technology,02:20.5,26:50.8,49,Product C
+280,Lead_280,FALSE,13002.38,Cold Call,Retail,47:01.6,40:32.4,67,Product C
+281,Lead_281,FALSE,14031.99,Website,Education,31:42.7,54:14.1,7,Product D
+282,Lead_282,FALSE,11083.13,Cold Call,Technology,16:23.8,07:55.7,58,Product D
+283,Lead_283,FALSE,5410.08,Social Media,Technology,01:04.9,21:37.3,49,Product C
+284,Lead_284,TRUE,7241.07,Website,Technology,45:45.9,35:18.9,53,Product D
+285,Lead_285,FALSE,4041.16,Email Campaign,Technology,30:27.0,49:00.5,65,Product B
+286,Lead_286,TRUE,18214.79,Cold Call,Healthcare,15:08.1,02:42.2,62,Product D
+287,Lead_287,TRUE,11876.14,Email Campaign,Healthcare,59:49.2,16:23.8,17,Product D
+288,Lead_288,TRUE,8316.6,Website,Healthcare,44:30.3,30:05.4,43,Product D
+289,Lead_289,TRUE,9509.11,Email Campaign,Education,29:11.4,43:47.0,25,Product D
+290,Lead_290,FALSE,18972.03,Email Campaign,Education,13:52.4,57:28.6,3,Product A
+291,Lead_291,TRUE,3490.35,Website,Education,58:33.5,11:10.3,79,Product A
+292,Lead_292,TRUE,11931.48,Social Media,Finance,43:14.6,24:51.9,29,Product A
+293,Lead_293,TRUE,10364.83,Email Campaign,Education,27:55.7,38:33.5,32,Product C
+294,Lead_294,FALSE,12423.36,Email Campaign,Healthcare,12:36.8,52:15.1,26,Product C
+295,Lead_295,FALSE,853.15,Social Media,Healthcare,57:17.8,05:56.8,16,Product B
+296,Lead_296,FALSE,17506.42,Email Campaign,Finance,41:58.9,19:38.4,25,Product A
+297,Lead_297,FALSE,18676.31,Email Campaign,Finance,26:40.0,33:20.0,54,Product C
+298,Lead_298,TRUE,11520.1,Email Campaign,Education,11:21.1,47:01.6,28,Product D
+299,Lead_299,TRUE,14084.69,Referral,Retail,56:02.2,00:43.2,73,Product D
+300,Lead_300,FALSE,18488.74,Social Media,Finance,40:43.2,14:24.9,56,Product A
+301,Lead_301,TRUE,14291.15,Email Campaign,Technology,25:24.3,28:06.5,65,Product B
+302,Lead_302,TRUE,3474.51,Social Media,Healthcare,10:05.4,41:48.1,93,Product B
+303,Lead_303,TRUE,11737.62,Cold Call,Technology,54:46.5,55:29.7,86,Product D
+304,Lead_304,FALSE,12330.94,Cold Call,Healthcare,39:27.6,09:11.4,80,Product B
+305,Lead_305,FALSE,8770.55,Email Campaign,Healthcare,24:08.6,22:53.0,41,Product A
+306,Lead_306,TRUE,14860.66,Social Media,Finance,08:49.7,36:34.6,51,Product D
+307,Lead_307,FALSE,18720.16,Social Media,Finance,53:30.8,50:16.2,71,Product C
+308,Lead_308,FALSE,18548.59,Social Media,Technology,38:11.9,03:57.8,78,Product C
+309,Lead_309,FALSE,9291.37,Referral,Healthcare,22:53.0,17:39.5,29,Product B
+310,Lead_310,FALSE,2708.14,Cold Call,Technology,07:34.1,31:21.1,83,Product D
+311,Lead_311,FALSE,19704.4,Social Media,Retail,52:15.1,45:02.7,19,Product D
+312,Lead_312,TRUE,16858.51,Social Media,Technology,36:56.2,58:44.3,66,Product C
+313,Lead_313,FALSE,2930.92,Referral,Education,21:37.3,12:25.9,41,Product D
+314,Lead_314,TRUE,18456.42,Referral,Technology,06:18.4,26:07.6,45,Product D
+315,Lead_315,TRUE,17462.98,Social Media,Education,50:59.5,39:49.2,15,Product D
+316,Lead_316,FALSE,10617.34,Website,Education,35:40.5,53:30.8,3,Product B
+317,Lead_317,TRUE,12029.87,Social Media,Education,20:21.6,07:12.4,11,Product D
+318,Lead_318,TRUE,8280.55,Social Media,Retail,05:02.7,20:54.1,53,Product A
+319,Lead_319,TRUE,1567.85,Referral,Technology,49:43.8,34:35.7,46,Product B
+320,Lead_320,FALSE,7036.35,Referral,Technology,34:24.9,48:17.3,30,Product D
+321,Lead_321,FALSE,16155.64,Social Media,Retail,19:05.9,01:58.9,57,Product D
+322,Lead_322,TRUE,590.32,Social Media,Healthcare,03:47.0,15:40.5,18,Product A
+323,Lead_323,FALSE,7003.23,Social Media,Finance,48:28.1,29:22.2,51,Product B
+324,Lead_324,FALSE,8264.29,Referral,Technology,33:09.2,43:03.8,48,Product C
+325,Lead_325,FALSE,10979.21,Social Media,Finance,17:50.3,56:45.4,66,Product C
+326,Lead_326,FALSE,18437.18,Social Media,Retail,02:31.4,10:27.0,96,Product B
+327,Lead_327,TRUE,7253.75,Email Campaign,Healthcare,47:12.4,24:08.6,8,Product D
+328,Lead_328,TRUE,7265.59,Website,Healthcare,31:53.5,37:50.3,22,Product D
+329,Lead_329,FALSE,14881.27,Cold Call,Healthcare,16:34.6,51:31.9,6,Product C
+330,Lead_330,FALSE,9318.25,Website,Retail,01:15.7,05:13.5,76,Product C
+331,Lead_331,TRUE,4879.79,Email Campaign,Education,45:56.8,18:55.1,57,Product C
+332,Lead_332,TRUE,9322.57,Cold Call,Education,30:37.8,32:36.8,36,Product A
+333,Lead_333,FALSE,3246.71,Social Media,Finance,15:18.9,46:18.4,79,Product C
+334,Lead_334,TRUE,3939.55,Email Campaign,Education,00:00.0,00:00.0,92,Product A
+335,Lead_335,FALSE,10218.17,Social Media,Education,44:41.1,13:41.6,57,Product B
+336,Lead_336,FALSE,8669.05,Referral,Healthcare,29:22.2,27:23.2,49,Product D
+337,Lead_337,TRUE,18339.5,Email Campaign,Healthcare,14:03.2,41:04.9,45,Product C
+338,Lead_338,TRUE,7566.68,Referral,Finance,58:44.3,54:46.5,82,Product D
+339,Lead_339,FALSE,11821.47,Email Campaign,Technology,43:25.4,08:28.1,66,Product D
+340,Lead_340,FALSE,12829.15,Email Campaign,Finance,28:06.5,22:09.7,77,Product C
+341,Lead_341,TRUE,755.34,Referral,Finance,12:47.6,35:51.4,45,Product C
+342,Lead_342,FALSE,13438.98,Cold Call,Retail,57:28.6,49:33.0,79,Product B
+343,Lead_343,TRUE,3971.7,Website,Retail,42:09.7,03:14.6,20,Product A
+344,Lead_344,FALSE,19240.87,Social Media,Finance,26:50.8,16:56.2,64,Product A
+345,Lead_345,TRUE,3398.92,Email Campaign,Finance,11:31.9,30:37.8,93,Product D
+346,Lead_346,TRUE,8585.17,Social Media,Finance,56:13.0,44:19.5,93,Product C
+347,Lead_347,TRUE,2164.32,Referral,Education,40:54.1,58:01.1,67,Product B
+348,Lead_348,FALSE,19939.05,Social Media,Retail,25:35.1,11:42.7,83,Product B
+349,Lead_349,FALSE,10292.8,Referral,Finance,10:16.2,25:24.3,3,Product B
+350,Lead_350,TRUE,12110.01,Social Media,Healthcare,54:57.3,39:05.9,54,Product B
+351,Lead_351,FALSE,1807.99,Website,Healthcare,39:38.4,52:47.6,78,Product B
+352,Lead_352,TRUE,15124.23,Website,Education,24:19.5,06:29.2,64,Product A
+353,Lead_353,TRUE,4593.16,Website,Education,09:00.5,20:10.8,40,Product A
+354,Lead_354,FALSE,18012.06,Website,Technology,53:41.6,33:52.4,59,Product A
+355,Lead_355,FALSE,4500.22,Website,Technology,38:22.7,47:34.1,55,Product C
+356,Lead_356,TRUE,4218.41,Website,Technology,23:03.8,01:15.7,62,Product D
+357,Lead_357,FALSE,1212.72,Referral,Education,07:44.9,14:57.3,4,Product B
+358,Lead_358,FALSE,9705.31,Email Campaign,Education,52:25.9,28:38.9,60,Product C
+359,Lead_359,TRUE,11514.4,Social Media,Education,37:07.0,42:20.5,75,Product B
+360,Lead_360,TRUE,1781.32,Website,Healthcare,21:48.1,56:02.2,95,Product A
+361,Lead_361,FALSE,15622.79,Referral,Education,06:29.2,09:43.8,96,Product C
+362,Lead_362,TRUE,9339.13,Referral,Healthcare,51:10.3,23:25.4,91,Product A
+363,Lead_363,TRUE,10725.61,Referral,Technology,35:51.4,37:07.0,30,Product B
+364,Lead_364,FALSE,9094.87,Email Campaign,Technology,20:32.4,50:48.6,2,Product B
+365,Lead_365,TRUE,8314.88,Social Media,Technology,05:13.5,04:30.3,62,Product D
+366,Lead_366,TRUE,11412.99,Email Campaign,Finance,49:54.6,18:11.9,49,Product B
+367,Lead_367,FALSE,3527.18,Cold Call,Finance,34:35.7,31:53.5,9,Product A
+368,Lead_368,FALSE,4047.6,Referral,Retail,19:16.8,45:35.1,92,Product B
+369,Lead_369,TRUE,17304.82,Cold Call,Retail,03:57.8,59:16.8,31,Product D
+370,Lead_370,TRUE,18949.25,Website,Retail,48:38.9,12:58.4,98,Product D
+371,Lead_371,FALSE,7779.53,Website,Finance,33:20.0,26:40.0,61,Product A
+372,Lead_372,FALSE,5779.52,Email Campaign,Finance,18:01.1,40:21.6,79,Product C
+373,Lead_373,FALSE,13057.99,Social Media,Retail,02:42.2,54:03.2,48,Product B
+374,Lead_374,FALSE,8470.32,Cold Call,Retail,47:23.2,07:44.9,25,Product D
+375,Lead_375,TRUE,995.03,Social Media,Education,32:04.3,21:26.5,36,Product B
+376,Lead_376,FALSE,3544.98,Email Campaign,Retail,16:45.4,35:08.1,8,Product B
+377,Lead_377,FALSE,14461.46,Website,Education,01:26.5,48:49.7,73,Product C
+378,Lead_378,TRUE,13349.02,Social Media,Healthcare,46:07.6,02:31.4,58,Product D
+379,Lead_379,FALSE,1028.37,Social Media,Finance,30:48.6,16:13.0,45,Product B
+380,Lead_380,TRUE,4828.46,Website,Retail,15:29.7,29:54.6,62,Product D
+381,Lead_381,FALSE,5005.96,Cold Call,Finance,00:10.8,43:36.2,39,Product A
+382,Lead_382,FALSE,13601.91,Website,Finance,44:51.9,57:17.8,96,Product A
+383,Lead_383,FALSE,884.36,Social Media,Finance,29:33.0,10:59.5,58,Product B
+384,Lead_384,TRUE,2530.12,Cold Call,Healthcare,14:14.1,24:41.1,81,Product D
+385,Lead_385,TRUE,16098.36,Cold Call,Technology,58:55.1,38:22.7,99,Product B
+386,Lead_386,FALSE,3981.62,Website,Retail,43:36.2,52:04.3,83,Product D
+387,Lead_387,TRUE,13228.55,Social Media,Technology,28:17.3,05:45.9,64,Product D
+388,Lead_388,TRUE,5144.56,Email Campaign,Technology,12:58.4,19:27.6,44,Product C
+389,Lead_389,TRUE,2439.11,Social Media,Technology,57:39.5,33:09.2,29,Product C
+390,Lead_390,TRUE,5241.86,Referral,Finance,42:20.5,46:50.8,59,Product C
+391,Lead_391,TRUE,14584.21,Email Campaign,Education,27:01.6,00:32.4,71,Product B
+392,Lead_392,TRUE,17186.08,Cold Call,Finance,11:42.7,14:14.1,92,Product C
+393,Lead_393,FALSE,16689.29,Email Campaign,Finance,56:23.8,27:55.7,9,Product C
+394,Lead_394,FALSE,8245.08,Cold Call,Technology,41:04.9,41:37.3,92,Product A
+395,Lead_395,TRUE,13527.66,Cold Call,Finance,25:45.9,55:18.9,6,Product D
+396,Lead_396,FALSE,4497.19,Email Campaign,Technology,10:27.0,09:00.5,29,Product D
+397,Lead_397,FALSE,6216.38,Cold Call,Education,55:08.1,22:42.2,58,Product C
+398,Lead_398,FALSE,17978.55,Cold Call,Retail,39:49.2,36:23.8,17,Product D
+399,Lead_399,FALSE,753.54,Referral,Technology,24:30.3,50:05.4,16,Product A
+400,Lead_400,TRUE,2167.42,Social Media,Education,09:11.4,03:47.0,87,Product A
+401,Lead_401,FALSE,4553.78,Social Media,Retail,53:52.4,17:28.6,95,Product C
+402,Lead_402,FALSE,1017.38,Referral,Healthcare,38:33.5,31:10.3,3,Product A
+403,Lead_403,TRUE,4037.99,Email Campaign,Technology,23:14.6,44:51.9,21,Product D
+404,Lead_404,TRUE,11869.31,Website,Technology,07:55.7,58:33.5,64,Product B
+405,Lead_405,FALSE,8717.78,Website,Healthcare,52:36.8,12:15.1,90,Product D
+406,Lead_406,FALSE,17907.1,Website,Healthcare,37:17.8,25:56.8,36,Product B
+407,Lead_407,FALSE,16440.15,Referral,Technology,21:58.9,39:38.4,86,Product C
+408,Lead_408,FALSE,7165.44,Referral,Healthcare,06:40.0,53:20.0,62,Product B
+409,Lead_409,FALSE,5558.76,Cold Call,Finance,51:21.1,07:01.6,42,Product A
+410,Lead_410,FALSE,7904,Website,Retail,36:02.2,20:43.2,76,Product D
+411,Lead_411,TRUE,12010.75,Email Campaign,Retail,20:43.2,34:24.9,42,Product B
+412,Lead_412,FALSE,5727.24,Email Campaign,Retail,05:24.3,48:06.5,61,Product D
+413,Lead_413,FALSE,12670.9,Website,Finance,50:05.4,01:48.1,13,Product C
+414,Lead_414,TRUE,8483.53,Website,Healthcare,34:46.5,15:29.7,11,Product C
+415,Lead_415,TRUE,11264.92,Website,Education,19:27.6,29:11.4,54,Product A
+416,Lead_416,TRUE,9004.47,Referral,Healthcare,04:08.6,42:53.0,16,Product C
+417,Lead_417,TRUE,6242.08,Referral,Technology,48:49.7,56:34.6,8,Product B
+418,Lead_418,FALSE,18994.84,Referral,Retail,33:30.8,10:16.2,59,Product C
+419,Lead_419,FALSE,15390.31,Social Media,Healthcare,18:11.9,23:57.8,57,Product A
+420,Lead_420,FALSE,3232.21,Email Campaign,Education,02:53.0,37:39.5,40,Product D
+421,Lead_421,FALSE,17435.13,Email Campaign,Technology,47:34.1,51:21.1,59,Product D
+422,Lead_422,FALSE,10004.91,Cold Call,Finance,32:15.1,05:02.7,2,Product C
+423,Lead_423,FALSE,17943.77,Referral,Finance,16:56.2,18:44.3,94,Product B
+424,Lead_424,TRUE,16097.18,Social Media,Education,01:37.3,32:25.9,94,Product A
+425,Lead_425,FALSE,8791.66,Social Media,Technology,46:18.4,46:07.6,76,Product B
+426,Lead_426,TRUE,938.15,Email Campaign,Retail,30:59.5,59:49.2,10,Product A
+427,Lead_427,TRUE,5739.21,Referral,Healthcare,15:40.5,13:30.8,44,Product C
+428,Lead_428,FALSE,11061.87,Cold Call,Technology,00:21.6,27:12.4,11,Product A
+429,Lead_429,TRUE,12852.83,Referral,Finance,45:02.7,40:54.1,79,Product A
+430,Lead_430,FALSE,5528.81,Website,Education,29:43.8,54:35.7,80,Product C
+431,Lead_431,TRUE,3217.44,Referral,Education,14:24.9,08:17.3,81,Product B
+432,Lead_432,FALSE,16781.14,Website,Healthcare,59:05.9,21:58.9,90,Product C
+433,Lead_433,TRUE,19695.84,Website,Education,43:47.0,35:40.5,2,Product A
+434,Lead_434,FALSE,10750.96,Cold Call,Education,28:28.1,49:22.2,50,Product C
+435,Lead_435,FALSE,3847.75,Email Campaign,Technology,13:09.2,03:03.8,12,Product A
+436,Lead_436,FALSE,5809.99,Referral,Retail,57:50.3,16:45.4,90,Product C
+437,Lead_437,FALSE,858.62,Website,Healthcare,42:31.4,30:27.0,23,Product D
+438,Lead_438,FALSE,18328.83,Referral,Technology,27:12.4,44:08.6,18,Product D
+439,Lead_439,TRUE,2796.15,Email Campaign,Retail,11:53.5,57:50.3,62,Product C
+440,Lead_440,TRUE,11742.07,Email Campaign,Technology,56:34.6,11:31.9,96,Product B
+441,Lead_441,TRUE,5844.08,Social Media,Technology,41:15.7,25:13.5,62,Product A
+442,Lead_442,FALSE,11306.47,Email Campaign,Education,25:56.8,38:55.1,38,Product D
+443,Lead_443,TRUE,13202.7,Cold Call,Retail,10:37.8,52:36.8,67,Product B
+444,Lead_444,FALSE,16679.97,Website,Healthcare,55:18.9,06:18.4,38,Product A
+445,Lead_445,FALSE,4525.21,Social Media,Healthcare,40:00.0,20:00.0,67,Product D
+446,Lead_446,TRUE,714.42,Cold Call,Retail,24:41.1,33:41.6,94,Product D
+447,Lead_447,TRUE,3169.27,Referral,Education,09:22.2,47:23.2,61,Product C
+448,Lead_448,FALSE,18050.36,Website,Finance,54:03.2,01:04.9,1,Product A
+449,Lead_449,TRUE,17540.86,Email Campaign,Technology,38:44.3,14:46.5,94,Product B
+450,Lead_450,FALSE,12149.56,Website,Education,23:25.4,28:28.1,45,Product B
+451,Lead_451,FALSE,12210.08,Referral,Retail,08:06.5,42:09.7,96,Product B
+452,Lead_452,FALSE,13468.22,Social Media,Technology,52:47.6,55:51.4,28,Product A
+453,Lead_453,FALSE,3919.74,Social Media,Healthcare,37:28.6,09:33.0,21,Product B
+454,Lead_454,FALSE,18331.03,Social Media,Finance,22:09.7,23:14.6,13,Product B
+455,Lead_455,TRUE,8666.03,Email Campaign,Healthcare,06:50.8,36:56.2,27,Product B
+456,Lead_456,TRUE,7971.2,Cold Call,Retail,51:31.9,50:37.8,7,Product C
+457,Lead_457,FALSE,10618.9,Cold Call,Technology,36:13.0,04:19.5,22,Product C
+458,Lead_458,FALSE,1415.84,Website,Retail,20:54.1,18:01.1,74,Product A
+459,Lead_459,TRUE,3742.53,Email Campaign,Technology,05:35.1,31:42.7,53,Product A
+460,Lead_460,TRUE,14891.66,Social Media,Education,50:16.2,45:24.3,79,Product B
+461,Lead_461,FALSE,2114.57,Social Media,Finance,34:57.3,59:05.9,79,Product C
+462,Lead_462,TRUE,12261.47,Referral,Education,19:38.4,12:47.6,4,Product D
+463,Lead_463,FALSE,5284.31,Referral,Education,04:19.5,26:29.2,96,Product D
+464,Lead_464,TRUE,8091.26,Social Media,Retail,49:00.5,40:10.8,23,Product B
+465,Lead_465,FALSE,6129.53,Social Media,Finance,33:41.6,53:52.4,70,Product B
+466,Lead_466,TRUE,7435.62,Email Campaign,Technology,18:22.7,07:34.1,88,Product C
+467,Lead_467,FALSE,14521.4,Cold Call,Technology,03:03.8,21:15.7,84,Product C
+468,Lead_468,TRUE,6293.87,Referral,Healthcare,47:44.9,34:57.3,84,Product C
+469,Lead_469,TRUE,11544.89,Cold Call,Technology,32:25.9,48:38.9,76,Product A
+470,Lead_470,FALSE,9782.98,Email Campaign,Retail,17:07.0,02:20.5,33,Product A
+471,Lead_471,TRUE,13441.59,Social Media,Education,01:48.1,16:02.2,28,Product B
+472,Lead_472,FALSE,18768.18,Cold Call,Education,46:29.2,29:43.8,8,Product A
+473,Lead_473,TRUE,14785.16,Social Media,Education,31:10.3,43:25.4,1,Product C
+474,Lead_474,FALSE,4691.34,Social Media,Finance,15:51.4,57:07.0,37,Product C
+475,Lead_475,TRUE,1108.07,Website,Technology,00:32.4,10:48.6,63,Product A
+476,Lead_476,FALSE,5614.15,Cold Call,Retail,45:13.5,24:30.3,22,Product D
+477,Lead_477,TRUE,12104.02,Cold Call,Finance,29:54.6,38:11.9,70,Product B
+478,Lead_478,FALSE,1502.8,Social Media,Healthcare,14:35.7,51:53.5,21,Product D
+479,Lead_479,TRUE,10179.14,Email Campaign,Retail,59:16.8,05:35.1,96,Product B
+480,Lead_480,FALSE,12138.44,Website,Retail,43:57.8,19:16.8,35,Product D
+481,Lead_481,FALSE,7017.76,Social Media,Retail,28:38.9,32:58.4,79,Product A
+482,Lead_482,FALSE,15532.79,Referral,Education,13:20.0,46:40.0,5,Product B
+483,Lead_483,TRUE,2578.67,Referral,Retail,58:01.1,00:21.6,60,Product B
+484,Lead_484,FALSE,1965.19,Website,Technology,42:42.2,14:03.2,46,Product B
+485,Lead_485,TRUE,14699.68,Email Campaign,Retail,27:23.2,27:44.9,50,Product C
+486,Lead_486,FALSE,10162.08,Social Media,Education,12:04.3,41:26.5,48,Product C
+487,Lead_487,TRUE,13923.85,Cold Call,Retail,56:45.4,55:08.1,6,Product D
+488,Lead_488,FALSE,8979.13,Website,Healthcare,41:26.5,08:49.7,89,Product A
+489,Lead_489,TRUE,5304.84,Email Campaign,Healthcare,26:07.6,22:31.4,56,Product C
+490,Lead_490,TRUE,16472.5,Cold Call,Education,10:48.6,36:13.0,59,Product B
+491,Lead_491,FALSE,16088.61,Referral,Technology,55:29.7,49:54.6,29,Product C
+492,Lead_492,TRUE,14046.58,Referral,Technology,40:10.8,03:36.2,71,Product A
+493,Lead_493,TRUE,5806.83,Cold Call,Finance,24:51.9,17:17.8,77,Product C
+494,Lead_494,FALSE,12009.5,Website,Education,09:33.0,30:59.5,18,Product B
+495,Lead_495,TRUE,7538.99,Referral,Retail,54:14.1,44:41.1,2,Product D
+496,Lead_496,TRUE,2285.85,Social Media,Education,38:55.1,58:22.7,8,Product B
+497,Lead_497,TRUE,18387.61,Cold Call,Finance,23:36.2,12:04.3,75,Product A
+498,Lead_498,FALSE,3167.96,Cold Call,Education,08:17.3,25:45.9,97,Product D
+499,Lead_499,TRUE,19029.63,Referral,Education,52:58.4,39:27.6,54,Product C
+500,Lead_500,FALSE,9197.11,Website,Finance,37:39.5,53:09.2,38,Product C
+501,Lead_501,TRUE,4110.09,Social Media,Technology,22:20.5,06:50.8,48,Product C
+502,Lead_502,TRUE,11067.07,Website,Retail,07:01.6,20:32.4,27,Product D
+503,Lead_503,TRUE,17522.44,Email Campaign,Finance,51:42.7,34:14.1,20,Product B
+504,Lead_504,FALSE,14778.39,Email Campaign,Healthcare,36:23.8,47:55.7,12,Product D
+505,Lead_505,TRUE,16227.94,Referral,Technology,21:04.9,01:37.3,43,Product D
+506,Lead_506,TRUE,13346.28,Referral,Healthcare,05:45.9,15:18.9,61,Product A
+507,Lead_507,FALSE,13999.39,Referral,Technology,50:27.0,29:00.5,31,Product D
+508,Lead_508,TRUE,17059.32,Email Campaign,Retail,35:08.1,42:42.2,91,Product C
+509,Lead_509,FALSE,5368.53,Website,Retail,19:49.2,56:23.8,96,Product B
+510,Lead_510,FALSE,10043.79,Website,Education,04:30.3,10:05.4,61,Product B
+511,Lead_511,TRUE,4813.58,Referral,Healthcare,49:11.4,23:47.0,74,Product B
+512,Lead_512,FALSE,19759.53,Social Media,Technology,33:52.4,37:28.6,67,Product C
+513,Lead_513,TRUE,18909.16,Website,Retail,18:33.5,51:10.3,91,Product C
+514,Lead_514,FALSE,1268.82,Email Campaign,Finance,03:14.6,04:51.9,35,Product C
+515,Lead_515,FALSE,14258.72,Cold Call,Retail,47:55.7,18:33.5,95,Product C
+516,Lead_516,TRUE,18542.34,Cold Call,Finance,32:36.8,32:15.1,15,Product C
+517,Lead_517,FALSE,4021.22,Cold Call,Technology,17:17.8,45:56.8,16,Product D
+518,Lead_518,FALSE,11574.93,Social Media,Retail,01:58.9,59:38.4,13,Product C
+519,Lead_519,FALSE,18352.02,Referral,Retail,46:40.0,13:20.0,35,Product C
+520,Lead_520,FALSE,1161.95,Email Campaign,Technology,31:21.1,27:01.6,75,Product C
+521,Lead_521,FALSE,14099.7,Social Media,Retail,16:02.2,40:43.2,59,Product C
+522,Lead_522,TRUE,6298.31,Email Campaign,Finance,00:43.2,54:24.9,21,Product B
+523,Lead_523,FALSE,18525.73,Email Campaign,Retail,45:24.3,08:06.5,54,Product C
+524,Lead_524,TRUE,19435.64,Referral,Healthcare,30:05.4,21:48.1,75,Product D
+525,Lead_525,FALSE,18913.2,Cold Call,Education,14:46.5,35:29.7,30,Product D
+526,Lead_526,TRUE,9747.18,Referral,Finance,59:27.6,49:11.4,48,Product D
+527,Lead_527,TRUE,17309.83,Social Media,Healthcare,44:08.6,02:53.0,35,Product A
+528,Lead_528,FALSE,16968.71,Social Media,Technology,28:49.7,16:34.6,86,Product B
+529,Lead_529,FALSE,6722.46,Social Media,Finance,13:30.8,30:16.2,38,Product C
+530,Lead_530,FALSE,16663.85,Referral,Education,58:11.9,43:57.8,31,Product A
+531,Lead_531,TRUE,1221.65,Email Campaign,Education,42:53.0,57:39.5,78,Product C
+532,Lead_532,FALSE,12127.26,Email Campaign,Technology,27:34.1,11:21.1,24,Product A
+533,Lead_533,TRUE,4985.17,Website,Technology,12:15.1,25:02.7,49,Product A
+534,Lead_534,TRUE,2851.05,Social Media,Finance,56:56.2,38:44.3,96,Product D
+535,Lead_535,TRUE,2000.59,Email Campaign,Retail,41:37.3,52:25.9,32,Product D
+536,Lead_536,FALSE,14077.63,Website,Technology,26:18.4,06:07.6,55,Product A
+537,Lead_537,FALSE,7127.56,Email Campaign,Retail,10:59.5,19:49.2,79,Product D
+538,Lead_538,TRUE,14632.95,Social Media,Healthcare,55:40.5,33:30.8,58,Product A
+539,Lead_539,TRUE,1774.45,Cold Call,Education,40:21.6,47:12.4,99,Product B
+540,Lead_540,FALSE,6648.16,Social Media,Retail,25:02.7,00:54.1,3,Product D
+541,Lead_541,TRUE,11020.08,Referral,Education,09:43.8,14:35.7,80,Product D
+542,Lead_542,FALSE,15919.1,Email Campaign,Retail,54:24.9,28:17.3,69,Product D
+543,Lead_543,TRUE,6715.67,Email Campaign,Healthcare,39:05.9,41:58.9,85,Product B
+544,Lead_544,FALSE,12704.88,Referral,Technology,23:47.0,55:40.5,10,Product A
+545,Lead_545,TRUE,17776.57,Referral,Healthcare,08:28.1,09:22.2,83,Product C
+546,Lead_546,FALSE,12509.33,Cold Call,Technology,53:09.2,23:03.8,25,Product D
+547,Lead_547,TRUE,5042.71,Email Campaign,Technology,37:50.3,36:45.4,68,Product A
+548,Lead_548,FALSE,975.82,Email Campaign,Education,22:31.4,50:27.0,61,Product B
+549,Lead_549,FALSE,17466.93,Cold Call,Healthcare,07:12.4,04:08.6,29,Product C
+550,Lead_550,TRUE,914.75,Website,Retail,51:53.5,17:50.3,19,Product D
+551,Lead_551,TRUE,17556.68,Cold Call,Healthcare,36:34.6,31:31.9,43,Product B
+552,Lead_552,FALSE,10814.27,Social Media,Education,21:15.7,45:13.5,66,Product B
+553,Lead_553,TRUE,18811.82,Email Campaign,Technology,05:56.8,58:55.1,74,Product C
+554,Lead_554,FALSE,16076.27,Referral,Education,50:37.8,12:36.8,61,Product A
+555,Lead_555,TRUE,19959.72,Social Media,Finance,35:18.9,26:18.4,43,Product D
+556,Lead_556,FALSE,7338.88,Email Campaign,Finance,20:00.0,40:00.0,25,Product D
+557,Lead_557,FALSE,15460.17,Cold Call,Retail,04:41.1,53:41.6,20,Product A
+558,Lead_558,FALSE,8337.65,Social Media,Education,49:22.2,07:23.2,48,Product A
+559,Lead_559,FALSE,9857.57,Email Campaign,Retail,34:03.2,21:04.9,83,Product A
+560,Lead_560,FALSE,12736.36,Website,Retail,18:44.3,34:46.5,87,Product C
+561,Lead_561,FALSE,17536.7,Website,Finance,03:25.4,48:28.1,24,Product C
+562,Lead_562,TRUE,19689.63,Referral,Retail,48:06.5,02:09.7,11,Product D
+563,Lead_563,TRUE,15481.33,Email Campaign,Finance,32:47.6,15:51.4,98,Product C
+564,Lead_564,TRUE,8646.45,Website,Technology,17:28.6,29:33.0,55,Product B
+565,Lead_565,FALSE,8716.46,Cold Call,Education,02:09.7,43:14.6,28,Product D
+566,Lead_566,FALSE,14882.85,Email Campaign,Retail,46:50.8,56:56.2,69,Product C
+567,Lead_567,FALSE,5156.15,Cold Call,Finance,31:31.9,10:37.8,63,Product A
+568,Lead_568,FALSE,2654.25,Cold Call,Healthcare,16:13.0,24:19.5,59,Product B
+569,Lead_569,TRUE,7415.13,Website,Retail,00:54.1,38:01.1,5,Product A
+570,Lead_570,TRUE,6101.16,Email Campaign,Technology,45:35.1,51:42.7,51,Product D
+571,Lead_571,FALSE,6278.01,Social Media,Technology,30:16.2,05:24.3,21,Product A
+572,Lead_572,TRUE,5055.35,Website,Healthcare,14:57.3,19:05.9,12,Product C
+573,Lead_573,TRUE,1320.82,Website,Finance,59:38.4,32:47.6,50,Product C
+574,Lead_574,FALSE,848.54,Email Campaign,Retail,44:19.5,46:29.2,4,Product D
+575,Lead_575,TRUE,19760.59,Email Campaign,Finance,29:00.5,00:10.8,42,Product A
+576,Lead_576,FALSE,8841.58,Cold Call,Technology,13:41.6,13:52.4,84,Product D
+577,Lead_577,TRUE,7994.37,Email Campaign,Finance,58:22.7,27:34.1,38,Product A
+578,Lead_578,FALSE,13753.12,Cold Call,Technology,43:03.8,41:15.7,25,Product B
+579,Lead_579,FALSE,4755.95,Website,Finance,27:44.9,54:57.3,14,Product C
+580,Lead_580,FALSE,19024.24,Referral,Healthcare,12:25.9,08:38.9,75,Product D
+581,Lead_581,FALSE,15833.73,Social Media,Education,57:07.0,22:20.5,32,Product B
+582,Lead_582,TRUE,2243.51,Website,Healthcare,41:48.1,36:02.2,11,Product B
+583,Lead_583,FALSE,8642.83,Email Campaign,Healthcare,26:29.2,49:43.8,61,Product D
+584,Lead_584,FALSE,17642.81,Social Media,Education,11:10.3,03:25.4,18,Product D
+585,Lead_585,FALSE,18922.27,Referral,Education,55:51.4,17:07.0,27,Product B
+586,Lead_586,TRUE,9614.33,Referral,Retail,40:32.4,30:48.6,55,Product A
+587,Lead_587,FALSE,12461.52,Cold Call,Retail,25:13.5,44:30.3,54,Product B
+588,Lead_588,TRUE,3757.16,Social Media,Healthcare,09:54.6,58:11.9,82,Product D
+589,Lead_589,FALSE,19827.79,Cold Call,Healthcare,54:35.7,11:53.5,87,Product B
+590,Lead_590,TRUE,5017.6,Website,Technology,39:16.8,25:35.1,75,Product A
+591,Lead_591,TRUE,18883.27,Social Media,Technology,23:57.8,39:16.8,21,Product C
+592,Lead_592,FALSE,13168.11,Website,Retail,08:38.9,52:58.4,44,Product C
+593,Lead_593,TRUE,12350.87,Cold Call,Retail,53:20.0,06:40.0,5,Product B
+594,Lead_594,FALSE,10497.43,Social Media,Technology,38:01.1,20:21.6,87,Product A
+595,Lead_595,FALSE,4998.06,Cold Call,Technology,22:42.2,34:03.2,41,Product C
+596,Lead_596,FALSE,3942.3,Social Media,Finance,07:23.2,47:44.9,59,Product B
+597,Lead_597,TRUE,4799.48,Cold Call,Finance,52:04.3,01:26.5,89,Product B
+598,Lead_598,TRUE,4135.55,Referral,Technology,36:45.4,15:08.1,54,Product A
+599,Lead_599,FALSE,15701.9,Cold Call,Finance,21:26.5,28:49.7,74,Product D
+600,Lead_600,FALSE,7327.44,Referral,Education,06:07.6,42:31.4,22,Product B
+601,Lead_601,TRUE,1627.93,Cold Call,Retail,50:48.6,56:13.0,83,Product D
+602,Lead_602,FALSE,19397.5,Social Media,Retail,35:29.7,09:54.6,65,Product D
+603,Lead_603,FALSE,17733.82,Social Media,Technology,20:10.8,23:36.2,64,Product C
+604,Lead_604,FALSE,18591.17,Social Media,Healthcare,04:51.9,37:17.8,71,Product D
+605,Lead_605,TRUE,19900.7,Email Campaign,Technology,49:33.0,50:59.5,4,Product A
+606,Lead_606,TRUE,3890.96,Website,Finance,34:14.1,04:41.1,65,Product C
+607,Lead_607,TRUE,8226.72,Social Media,Healthcare,18:55.1,18:22.7,15,Product C
+608,Lead_608,FALSE,15285.65,Referral,Finance,03:36.2,32:04.3,76,Product C
+609,Lead_609,FALSE,14072.4,Social Media,Education,48:17.3,45:45.9,22,Product B
+610,Lead_610,FALSE,3500.97,Email Campaign,Finance,32:58.4,59:27.6,86,Product B
+611,Lead_611,TRUE,16408.75,Referral,Education,17:39.5,13:09.2,47,Product D
+612,Lead_612,FALSE,4876.59,Email Campaign,Education,02:20.5,26:50.8,81,Product C
+613,Lead_613,FALSE,4864.44,Referral,Finance,47:01.6,40:32.4,93,Product C
+614,Lead_614,FALSE,10971,Cold Call,Finance,31:42.7,54:14.1,46,Product A
+615,Lead_615,FALSE,12062.33,Website,Education,16:23.8,07:55.7,14,Product D
+616,Lead_616,TRUE,11811.68,Website,Healthcare,01:04.9,21:37.3,50,Product A
+617,Lead_617,TRUE,2283.99,Email Campaign,Education,45:45.9,35:18.9,20,Product D
+618,Lead_618,FALSE,17610.49,Website,Retail,30:27.0,49:00.5,50,Product D
+619,Lead_619,TRUE,5679.2,Email Campaign,Education,15:08.1,02:42.2,33,Product B
+620,Lead_620,TRUE,3025.54,Email Campaign,Healthcare,59:49.2,16:23.8,59,Product B
+621,Lead_621,FALSE,17830.59,Email Campaign,Retail,44:30.3,30:05.4,43,Product A
+622,Lead_622,FALSE,19135.2,Website,Technology,29:11.4,43:47.0,79,Product D
+623,Lead_623,TRUE,17311.49,Email Campaign,Technology,13:52.4,57:28.6,12,Product C
+624,Lead_624,FALSE,16285.56,Website,Healthcare,58:33.5,11:10.3,40,Product B
+625,Lead_625,TRUE,13277.22,Email Campaign,Education,43:14.6,24:51.9,20,Product C
+626,Lead_626,FALSE,11241.72,Social Media,Finance,27:55.7,38:33.5,94,Product A
+627,Lead_627,TRUE,2196.24,Email Campaign,Healthcare,12:36.8,52:15.1,38,Product B
+628,Lead_628,FALSE,8464.84,Referral,Retail,57:17.8,05:56.8,3,Product B
+629,Lead_629,TRUE,7767.43,Email Campaign,Retail,41:58.9,19:38.4,28,Product D
+630,Lead_630,TRUE,5565.2,Cold Call,Technology,26:40.0,33:20.0,56,Product A
+631,Lead_631,TRUE,14606.69,Email Campaign,Retail,11:21.1,47:01.6,90,Product D
+632,Lead_632,FALSE,10169.58,Referral,Healthcare,56:02.2,00:43.2,94,Product B
+633,Lead_633,TRUE,2080.4,Referral,Retail,40:43.2,14:24.9,13,Product A
+634,Lead_634,TRUE,4793.57,Website,Healthcare,25:24.3,28:06.5,77,Product B
+635,Lead_635,FALSE,13823.55,Social Media,Finance,10:05.4,41:48.1,66,Product A
+636,Lead_636,FALSE,1984.55,Email Campaign,Technology,54:46.5,55:29.7,37,Product B
+637,Lead_637,TRUE,17098.53,Website,Retail,39:27.6,09:11.4,49,Product C
+638,Lead_638,TRUE,10155.36,Social Media,Healthcare,24:08.6,22:53.0,66,Product C
+639,Lead_639,FALSE,9871.44,Email Campaign,Education,08:49.7,36:34.6,36,Product D
+640,Lead_640,FALSE,12051.95,Cold Call,Technology,53:30.8,50:16.2,54,Product C
+641,Lead_641,FALSE,16581.28,Email Campaign,Finance,38:11.9,03:57.8,26,Product B
+642,Lead_642,FALSE,7282.28,Referral,Healthcare,22:53.0,17:39.5,75,Product B
+643,Lead_643,FALSE,13721.31,Referral,Finance,07:34.1,31:21.1,72,Product C
+644,Lead_644,TRUE,11531.77,Cold Call,Finance,52:15.1,45:02.7,40,Product D
+645,Lead_645,FALSE,5707.05,Website,Retail,36:56.2,58:44.3,43,Product C
+646,Lead_646,TRUE,17633.28,Social Media,Retail,21:37.3,12:25.9,22,Product A
+647,Lead_647,TRUE,16049.81,Email Campaign,Healthcare,06:18.4,26:07.6,20,Product A
+648,Lead_648,TRUE,13339.81,Referral,Education,50:59.5,39:49.2,8,Product A
+649,Lead_649,FALSE,17086.34,Website,Healthcare,35:40.5,53:30.8,29,Product C
+650,Lead_650,TRUE,17412.24,Cold Call,Education,20:21.6,07:12.4,40,Product C
+651,Lead_651,TRUE,14313.08,Referral,Finance,05:02.7,20:54.1,90,Product C
+652,Lead_652,FALSE,16821.76,Cold Call,Technology,49:43.8,34:35.7,30,Product A
+653,Lead_653,TRUE,14100.69,Email Campaign,Healthcare,34:24.9,48:17.3,81,Product D
+654,Lead_654,TRUE,13762.75,Social Media,Healthcare,19:05.9,01:58.9,84,Product B
+655,Lead_655,FALSE,12562.92,Referral,Education,03:47.0,15:40.5,55,Product C
+656,Lead_656,TRUE,15177.97,Referral,Finance,48:28.1,29:22.2,16,Product D
+657,Lead_657,TRUE,3592.8,Email Campaign,Finance,33:09.2,43:03.8,46,Product B
+658,Lead_658,TRUE,17676.98,Website,Education,17:50.3,56:45.4,62,Product B
+659,Lead_659,FALSE,17500.95,Social Media,Finance,02:31.4,10:27.0,7,Product B
+660,Lead_660,FALSE,1070.32,Referral,Retail,47:12.4,24:08.6,80,Product D
+661,Lead_661,FALSE,16603.43,Social Media,Technology,31:53.5,37:50.3,45,Product D
+662,Lead_662,TRUE,3012.96,Referral,Healthcare,16:34.6,51:31.9,59,Product A
+663,Lead_663,TRUE,7034.82,Social Media,Technology,01:15.7,05:13.5,56,Product D
+664,Lead_664,FALSE,14998.41,Cold Call,Healthcare,45:56.8,18:55.1,48,Product D
+665,Lead_665,TRUE,3634.82,Referral,Retail,30:37.8,32:36.8,27,Product D
+666,Lead_666,TRUE,16450.36,Social Media,Finance,15:18.9,46:18.4,53,Product B
+667,Lead_667,FALSE,16726.62,Website,Education,00:00.0,00:00.0,87,Product C
+668,Lead_668,FALSE,10395.62,Cold Call,Retail,44:41.1,13:41.6,88,Product A
+669,Lead_669,TRUE,624.52,Cold Call,Technology,29:22.2,27:23.2,73,Product C
+670,Lead_670,TRUE,6097.24,Website,Education,14:03.2,41:04.9,35,Product C
+671,Lead_671,TRUE,12530.07,Social Media,Finance,58:44.3,54:46.5,51,Product D
+672,Lead_672,FALSE,19633.13,Email Campaign,Retail,43:25.4,08:28.1,84,Product A
+673,Lead_673,FALSE,12820.36,Website,Education,28:06.5,22:09.7,37,Product C
+674,Lead_674,FALSE,5566.17,Social Media,Retail,12:47.6,35:51.4,81,Product C
+675,Lead_675,FALSE,12863.11,Website,Retail,57:28.6,49:33.0,95,Product A
+676,Lead_676,TRUE,11029.71,Website,Finance,42:09.7,03:14.6,57,Product D
+677,Lead_677,FALSE,15706.99,Referral,Healthcare,26:50.8,16:56.2,8,Product C
+678,Lead_678,FALSE,2586.12,Social Media,Education,11:31.9,30:37.8,79,Product B
+679,Lead_679,FALSE,15340.04,Email Campaign,Finance,56:13.0,44:19.5,95,Product C
+680,Lead_680,FALSE,11054.7,Referral,Retail,40:54.1,58:01.1,94,Product B
+681,Lead_681,FALSE,19278.34,Website,Finance,25:35.1,11:42.7,20,Product D
+682,Lead_682,TRUE,7166.51,Website,Healthcare,10:16.2,25:24.3,53,Product C
+683,Lead_683,TRUE,12836.13,Website,Education,54:57.3,39:05.9,12,Product A
+684,Lead_684,FALSE,18674.55,Social Media,Healthcare,39:38.4,52:47.6,49,Product A
+685,Lead_685,TRUE,2498.94,Social Media,Technology,24:19.5,06:29.2,17,Product C
+686,Lead_686,FALSE,18775.96,Referral,Education,09:00.5,20:10.8,64,Product D
+687,Lead_687,FALSE,13913.77,Email Campaign,Healthcare,53:41.6,33:52.4,42,Product D
+688,Lead_688,TRUE,1822.82,Referral,Retail,38:22.7,47:34.1,94,Product A
+689,Lead_689,TRUE,6368.79,Cold Call,Education,23:03.8,01:15.7,29,Product C
+690,Lead_690,FALSE,14309.36,Website,Education,07:44.9,14:57.3,19,Product D
+691,Lead_691,FALSE,1813.34,Website,Finance,52:25.9,28:38.9,11,Product A
+692,Lead_692,FALSE,11852.32,Website,Retail,37:07.0,42:20.5,98,Product B
+693,Lead_693,TRUE,7244.72,Referral,Technology,21:48.1,56:02.2,50,Product C
+694,Lead_694,FALSE,12607.85,Referral,Healthcare,06:29.2,09:43.8,71,Product B
+695,Lead_695,FALSE,1391.97,Website,Finance,51:10.3,23:25.4,58,Product B
+696,Lead_696,FALSE,17494.97,Referral,Healthcare,35:51.4,37:07.0,34,Product D
+697,Lead_697,TRUE,19483.03,Social Media,Technology,20:32.4,50:48.6,20,Product D
+698,Lead_698,FALSE,19393.12,Social Media,Technology,05:13.5,04:30.3,50,Product D
+699,Lead_699,FALSE,15118.21,Referral,Education,49:54.6,18:11.9,88,Product C
+700,Lead_700,TRUE,3036.68,Website,Technology,34:35.7,31:53.5,10,Product B
+701,Lead_701,FALSE,15286.13,Referral,Healthcare,19:16.8,45:35.1,32,Product C
+702,Lead_702,FALSE,979.44,Referral,Retail,03:57.8,59:16.8,52,Product D
+703,Lead_703,TRUE,931.41,Referral,Retail,48:38.9,12:58.4,15,Product B
+704,Lead_704,FALSE,6810.4,Cold Call,Education,33:20.0,26:40.0,84,Product C
+705,Lead_705,TRUE,10028.54,Social Media,Healthcare,18:01.1,40:21.6,3,Product C
+706,Lead_706,TRUE,15522.94,Email Campaign,Healthcare,02:42.2,54:03.2,37,Product A
+707,Lead_707,FALSE,13824.26,Email Campaign,Technology,47:23.2,07:44.9,40,Product C
+708,Lead_708,FALSE,9195.1,Cold Call,Healthcare,32:04.3,21:26.5,72,Product D
+709,Lead_709,FALSE,5835.72,Referral,Finance,16:45.4,35:08.1,40,Product C
+710,Lead_710,FALSE,19943.93,Cold Call,Technology,01:26.5,48:49.7,56,Product B
+711,Lead_711,TRUE,8810.54,Cold Call,Finance,46:07.6,02:31.4,23,Product C
+712,Lead_712,FALSE,9302.05,Website,Education,30:48.6,16:13.0,11,Product A
+713,Lead_713,TRUE,3690.66,Social Media,Retail,15:29.7,29:54.6,64,Product B
+714,Lead_714,FALSE,15998.79,Email Campaign,Education,00:10.8,43:36.2,8,Product B
+715,Lead_715,FALSE,14026.8,Referral,Retail,44:51.9,57:17.8,93,Product A
+716,Lead_716,FALSE,4805.01,Email Campaign,Education,29:33.0,10:59.5,94,Product D
+717,Lead_717,TRUE,2106.43,Email Campaign,Healthcare,14:14.1,24:41.1,56,Product B
+718,Lead_718,FALSE,13769.74,Social Media,Finance,58:55.1,38:22.7,60,Product D
+719,Lead_719,FALSE,13262.97,Email Campaign,Retail,43:36.2,52:04.3,10,Product B
+720,Lead_720,FALSE,5828.56,Email Campaign,Technology,28:17.3,05:45.9,39,Product B
+721,Lead_721,FALSE,19041.84,Cold Call,Finance,12:58.4,19:27.6,28,Product D
+722,Lead_722,TRUE,3445.63,Social Media,Technology,57:39.5,33:09.2,49,Product B
+723,Lead_723,FALSE,8930.53,Website,Finance,42:20.5,46:50.8,36,Product D
+724,Lead_724,TRUE,18900.51,Referral,Finance,27:01.6,00:32.4,13,Product A
+725,Lead_725,TRUE,8684.68,Email Campaign,Education,11:42.7,14:14.1,96,Product D
+726,Lead_726,TRUE,12951.26,Referral,Retail,56:23.8,27:55.7,36,Product A
+727,Lead_727,TRUE,8253.09,Website,Retail,41:04.9,41:37.3,26,Product B
+728,Lead_728,TRUE,5847.2,Referral,Finance,25:45.9,55:18.9,86,Product D
+729,Lead_729,TRUE,19687.56,Website,Healthcare,10:27.0,09:00.5,4,Product B
+730,Lead_730,FALSE,8482.01,Cold Call,Healthcare,55:08.1,22:42.2,95,Product D
+731,Lead_731,TRUE,17934.93,Email Campaign,Technology,39:49.2,36:23.8,82,Product A
+732,Lead_732,TRUE,4984.11,Website,Technology,24:30.3,50:05.4,64,Product A
+733,Lead_733,TRUE,4655.54,Referral,Education,09:11.4,03:47.0,38,Product D
+734,Lead_734,FALSE,1107.11,Email Campaign,Finance,53:52.4,17:28.6,88,Product A
+735,Lead_735,FALSE,13207.5,Cold Call,Technology,38:33.5,31:10.3,87,Product B
+736,Lead_736,TRUE,7686.26,Email Campaign,Technology,23:14.6,44:51.9,22,Product B
+737,Lead_737,FALSE,17354.99,Website,Finance,07:55.7,58:33.5,2,Product C
+738,Lead_738,TRUE,9727.59,Cold Call,Education,52:36.8,12:15.1,31,Product A
+739,Lead_739,TRUE,19379.77,Referral,Technology,37:17.8,25:56.8,11,Product B
+740,Lead_740,FALSE,4117.75,Cold Call,Education,21:58.9,39:38.4,92,Product D
+741,Lead_741,TRUE,17438.15,Cold Call,Retail,06:40.0,53:20.0,46,Product A
+742,Lead_742,FALSE,15643.64,Social Media,Education,51:21.1,07:01.6,96,Product B
+743,Lead_743,FALSE,15532.98,Cold Call,Healthcare,36:02.2,20:43.2,62,Product A
+744,Lead_744,TRUE,16973.27,Cold Call,Healthcare,20:43.2,34:24.9,69,Product D
+745,Lead_745,TRUE,15339.97,Email Campaign,Education,05:24.3,48:06.5,64,Product B
+746,Lead_746,FALSE,12711.3,Referral,Healthcare,50:05.4,01:48.1,10,Product C
+747,Lead_747,TRUE,3059.28,Email Campaign,Retail,34:46.5,15:29.7,40,Product C
+748,Lead_748,TRUE,1134.26,Email Campaign,Finance,19:27.6,29:11.4,24,Product A
+749,Lead_749,TRUE,18456.53,Website,Healthcare,04:08.6,42:53.0,99,Product D
+750,Lead_750,FALSE,12524.68,Email Campaign,Healthcare,48:49.7,56:34.6,44,Product B
+751,Lead_751,FALSE,16032.48,Social Media,Education,33:30.8,10:16.2,60,Product D
+752,Lead_752,TRUE,9889.69,Social Media,Retail,18:11.9,23:57.8,62,Product B
+753,Lead_753,FALSE,2787.51,Website,Finance,02:53.0,37:39.5,87,Product A
+754,Lead_754,FALSE,2941.12,Referral,Education,47:34.1,51:21.1,17,Product B
+755,Lead_755,FALSE,13868.52,Referral,Education,32:15.1,05:02.7,65,Product D
+756,Lead_756,FALSE,8890.96,Email Campaign,Retail,16:56.2,18:44.3,95,Product D
+757,Lead_757,FALSE,4410.23,Email Campaign,Finance,01:37.3,32:25.9,95,Product A
+758,Lead_758,TRUE,10086.09,Email Campaign,Retail,46:18.4,46:07.6,57,Product D
+759,Lead_759,TRUE,1752.07,Referral,Finance,30:59.5,59:49.2,55,Product B
+760,Lead_760,TRUE,11848.44,Cold Call,Retail,15:40.5,13:30.8,53,Product A
+761,Lead_761,FALSE,5745.37,Social Media,Education,00:21.6,27:12.4,56,Product B
+762,Lead_762,FALSE,16052.4,Cold Call,Education,45:02.7,40:54.1,98,Product D
+763,Lead_763,TRUE,6552.06,Cold Call,Technology,29:43.8,54:35.7,9,Product A
+764,Lead_764,FALSE,9376.79,Referral,Healthcare,14:24.9,08:17.3,22,Product B
+765,Lead_765,TRUE,726.6,Cold Call,Retail,59:05.9,21:58.9,13,Product D
+766,Lead_766,TRUE,1912.71,Website,Technology,43:47.0,35:40.5,89,Product D
+767,Lead_767,TRUE,8153.62,Email Campaign,Healthcare,28:28.1,49:22.2,48,Product C
+768,Lead_768,FALSE,9858.81,Website,Retail,13:09.2,03:03.8,18,Product D
+769,Lead_769,FALSE,12200.4,Social Media,Finance,57:50.3,16:45.4,76,Product B
+770,Lead_770,TRUE,6187.42,Email Campaign,Healthcare,42:31.4,30:27.0,40,Product A
+771,Lead_771,TRUE,14052.15,Cold Call,Education,27:12.4,44:08.6,17,Product C
+772,Lead_772,TRUE,17272.39,Social Media,Technology,11:53.5,57:50.3,15,Product D
+773,Lead_773,TRUE,15707.09,Email Campaign,Healthcare,56:34.6,11:31.9,15,Product D
+774,Lead_774,FALSE,1272.57,Cold Call,Healthcare,41:15.7,25:13.5,79,Product D
+775,Lead_775,FALSE,9869.89,Website,Education,25:56.8,38:55.1,63,Product B
+776,Lead_776,TRUE,2546.14,Email Campaign,Retail,10:37.8,52:36.8,39,Product C
+777,Lead_777,TRUE,5219.88,Cold Call,Finance,55:18.9,06:18.4,13,Product B
+778,Lead_778,FALSE,19739.92,Website,Education,40:00.0,20:00.0,81,Product C
+779,Lead_779,FALSE,3278.66,Social Media,Finance,24:41.1,33:41.6,32,Product A
+780,Lead_780,TRUE,10228.32,Social Media,Retail,09:22.2,47:23.2,9,Product B
+781,Lead_781,TRUE,12554.04,Social Media,Healthcare,54:03.2,01:04.9,40,Product B
+782,Lead_782,TRUE,14198.07,Social Media,Finance,38:44.3,14:46.5,20,Product A
+783,Lead_783,FALSE,11413.15,Referral,Technology,23:25.4,28:28.1,90,Product C
+784,Lead_784,FALSE,690.53,Email Campaign,Technology,08:06.5,42:09.7,91,Product D
+785,Lead_785,FALSE,6866,Email Campaign,Education,52:47.6,55:51.4,85,Product A
+786,Lead_786,TRUE,10595.38,Referral,Retail,37:28.6,09:33.0,82,Product D
+787,Lead_787,TRUE,2213.4,Cold Call,Education,22:09.7,23:14.6,77,Product D
+788,Lead_788,FALSE,7337.23,Cold Call,Education,06:50.8,36:56.2,80,Product A
+789,Lead_789,FALSE,1147.46,Social Media,Education,51:31.9,50:37.8,73,Product C
+790,Lead_790,TRUE,2032.28,Website,Technology,36:13.0,04:19.5,63,Product D
+791,Lead_791,FALSE,8240,Cold Call,Technology,20:54.1,18:01.1,76,Product A
+792,Lead_792,FALSE,3087.96,Website,Education,05:35.1,31:42.7,44,Product B
+793,Lead_793,TRUE,11567.05,Email Campaign,Technology,50:16.2,45:24.3,38,Product B
+794,Lead_794,FALSE,13944.57,Website,Retail,34:57.3,59:05.9,83,Product B
+795,Lead_795,TRUE,16111.44,Email Campaign,Education,19:38.4,12:47.6,60,Product A
+796,Lead_796,TRUE,4402.93,Referral,Technology,04:19.5,26:29.2,71,Product B
+797,Lead_797,TRUE,3765.91,Referral,Finance,49:00.5,40:10.8,99,Product D
+798,Lead_798,TRUE,2539.07,Social Media,Education,33:41.6,53:52.4,48,Product B
+799,Lead_799,TRUE,12910.39,Cold Call,Education,18:22.7,07:34.1,18,Product B
+800,Lead_800,TRUE,14276.28,Social Media,Retail,03:03.8,21:15.7,16,Product D
+801,Lead_801,TRUE,1115.93,Email Campaign,Healthcare,47:44.9,34:57.3,55,Product B
+802,Lead_802,FALSE,18756.14,Social Media,Healthcare,32:25.9,48:38.9,39,Product D
+803,Lead_803,TRUE,1513.44,Website,Retail,17:07.0,02:20.5,68,Product B
+804,Lead_804,TRUE,11055.28,Email Campaign,Retail,01:48.1,16:02.2,59,Product D
+805,Lead_805,FALSE,14326.68,Referral,Retail,46:29.2,29:43.8,89,Product B
+806,Lead_806,FALSE,17483.9,Cold Call,Healthcare,31:10.3,43:25.4,96,Product D
+807,Lead_807,FALSE,14424.7,Email Campaign,Retail,15:51.4,57:07.0,62,Product A
+808,Lead_808,TRUE,16133.7,Email Campaign,Technology,00:32.4,10:48.6,13,Product D
+809,Lead_809,FALSE,7119.28,Website,Education,45:13.5,24:30.3,81,Product B
+810,Lead_810,TRUE,16389.09,Cold Call,Education,29:54.6,38:11.9,6,Product B
+811,Lead_811,TRUE,2062.24,Referral,Finance,14:35.7,51:53.5,83,Product C
+812,Lead_812,TRUE,17948.92,Email Campaign,Finance,59:16.8,05:35.1,77,Product D
+813,Lead_813,TRUE,11178.05,Email Campaign,Education,43:57.8,19:16.8,60,Product A
+814,Lead_814,FALSE,16437.31,Website,Technology,28:38.9,32:58.4,90,Product D
+815,Lead_815,FALSE,9320.21,Social Media,Healthcare,13:20.0,46:40.0,14,Product D
+816,Lead_816,TRUE,13049.77,Referral,Healthcare,58:01.1,00:21.6,95,Product A
+817,Lead_817,TRUE,10764.85,Cold Call,Technology,42:42.2,14:03.2,54,Product D
+818,Lead_818,TRUE,14766,Email Campaign,Healthcare,27:23.2,27:44.9,4,Product A
+819,Lead_819,FALSE,2091.78,Email Campaign,Retail,12:04.3,41:26.5,39,Product A
+820,Lead_820,TRUE,1676.87,Referral,Education,56:45.4,55:08.1,72,Product D
+821,Lead_821,TRUE,5318.51,Social Media,Education,41:26.5,08:49.7,25,Product D
+822,Lead_822,FALSE,3611.12,Email Campaign,Technology,26:07.6,22:31.4,77,Product B
+823,Lead_823,FALSE,17499.78,Referral,Healthcare,10:48.6,36:13.0,32,Product B
+824,Lead_824,TRUE,4774.67,Website,Finance,55:29.7,49:54.6,59,Product C
+825,Lead_825,FALSE,19529.37,Social Media,Finance,40:10.8,03:36.2,63,Product C
+826,Lead_826,FALSE,7069.47,Cold Call,Healthcare,24:51.9,17:17.8,38,Product D
+827,Lead_827,TRUE,4051.3,Email Campaign,Finance,09:33.0,30:59.5,92,Product A
+828,Lead_828,FALSE,15899.12,Referral,Technology,54:14.1,44:41.1,53,Product C
+829,Lead_829,TRUE,13344.8,Website,Technology,38:55.1,58:22.7,94,Product D
+830,Lead_830,FALSE,10214.82,Cold Call,Healthcare,23:36.2,12:04.3,67,Product C
+831,Lead_831,TRUE,11329.59,Referral,Finance,08:17.3,25:45.9,28,Product A
+832,Lead_832,TRUE,14524.43,Referral,Technology,52:58.4,39:27.6,3,Product D
+833,Lead_833,TRUE,4954.87,Cold Call,Technology,37:39.5,53:09.2,98,Product A
+834,Lead_834,FALSE,19928.51,Website,Retail,22:20.5,06:50.8,80,Product D
+835,Lead_835,TRUE,19508.47,Website,Retail,07:01.6,20:32.4,22,Product C
+836,Lead_836,FALSE,13181.35,Social Media,Technology,51:42.7,34:14.1,96,Product B
+837,Lead_837,TRUE,4391.08,Email Campaign,Healthcare,36:23.8,47:55.7,38,Product C
+838,Lead_838,TRUE,13764.45,Cold Call,Education,21:04.9,01:37.3,72,Product C
+839,Lead_839,FALSE,1907.87,Cold Call,Education,05:45.9,15:18.9,72,Product B
+840,Lead_840,TRUE,1097.72,Cold Call,Technology,50:27.0,29:00.5,62,Product B
+841,Lead_841,TRUE,5524.82,Website,Technology,35:08.1,42:42.2,57,Product D
+842,Lead_842,FALSE,9521.15,Email Campaign,Technology,19:49.2,56:23.8,6,Product D
+843,Lead_843,TRUE,17431.31,Social Media,Healthcare,04:30.3,10:05.4,78,Product A
+844,Lead_844,TRUE,14679.8,Referral,Retail,49:11.4,23:47.0,32,Product A
+845,Lead_845,TRUE,14982.78,Referral,Technology,33:52.4,37:28.6,99,Product C
+846,Lead_846,TRUE,8797.12,Cold Call,Technology,18:33.5,51:10.3,10,Product B
+847,Lead_847,FALSE,7245.73,Email Campaign,Finance,03:14.6,04:51.9,3,Product A
+848,Lead_848,FALSE,7735.26,Website,Healthcare,47:55.7,18:33.5,59,Product C
+849,Lead_849,TRUE,19759.17,Email Campaign,Technology,32:36.8,32:15.1,76,Product B
+850,Lead_850,FALSE,1282.13,Email Campaign,Finance,17:17.8,45:56.8,49,Product D
+851,Lead_851,TRUE,17407.11,Website,Education,01:58.9,59:38.4,59,Product C
+852,Lead_852,FALSE,11784.17,Cold Call,Technology,46:40.0,13:20.0,31,Product D
+853,Lead_853,TRUE,9053,Email Campaign,Technology,31:21.1,27:01.6,93,Product A
+854,Lead_854,TRUE,14642.52,Referral,Finance,16:02.2,40:43.2,69,Product A
+855,Lead_855,TRUE,9990.04,Website,Healthcare,00:43.2,54:24.9,62,Product B
+856,Lead_856,TRUE,17531.75,Social Media,Technology,45:24.3,08:06.5,52,Product C
+857,Lead_857,TRUE,18063.69,Cold Call,Education,30:05.4,21:48.1,89,Product D
+858,Lead_858,TRUE,8723.56,Website,Technology,14:46.5,35:29.7,41,Product B
+859,Lead_859,FALSE,5898.14,Social Media,Education,59:27.6,49:11.4,31,Product A
+860,Lead_860,TRUE,12050.83,Social Media,Retail,44:08.6,02:53.0,85,Product A
+861,Lead_861,FALSE,18291.09,Email Campaign,Retail,28:49.7,16:34.6,84,Product C
+862,Lead_862,TRUE,4607.91,Email Campaign,Education,13:30.8,30:16.2,22,Product D
+863,Lead_863,FALSE,12647.85,Email Campaign,Healthcare,58:11.9,43:57.8,4,Product C
+864,Lead_864,FALSE,12815.42,Website,Technology,42:53.0,57:39.5,13,Product D
+865,Lead_865,FALSE,14795.7,Website,Technology,27:34.1,11:21.1,45,Product D
+866,Lead_866,TRUE,3065.57,Cold Call,Retail,12:15.1,25:02.7,42,Product C
+867,Lead_867,TRUE,14458.59,Email Campaign,Education,56:56.2,38:44.3,49,Product B
+868,Lead_868,FALSE,18226.13,Social Media,Technology,41:37.3,52:25.9,20,Product C
+869,Lead_869,TRUE,4003.82,Referral,Technology,26:18.4,06:07.6,77,Product C
+870,Lead_870,FALSE,5132.09,Cold Call,Healthcare,10:59.5,19:49.2,81,Product A
+871,Lead_871,TRUE,19442.2,Website,Finance,55:40.5,33:30.8,54,Product A
+872,Lead_872,FALSE,4029.05,Cold Call,Retail,40:21.6,47:12.4,36,Product C
+873,Lead_873,FALSE,17160.51,Cold Call,Retail,25:02.7,00:54.1,97,Product C
+874,Lead_874,TRUE,10099.42,Cold Call,Finance,09:43.8,14:35.7,1,Product A
+875,Lead_875,FALSE,5321.01,Cold Call,Technology,54:24.9,28:17.3,15,Product D
+876,Lead_876,TRUE,17479.62,Referral,Healthcare,39:05.9,41:58.9,77,Product C
+877,Lead_877,FALSE,9183.45,Email Campaign,Healthcare,23:47.0,55:40.5,17,Product B
+878,Lead_878,FALSE,10538.94,Social Media,Retail,08:28.1,09:22.2,24,Product B
+879,Lead_879,TRUE,7505.05,Cold Call,Healthcare,53:09.2,23:03.8,58,Product B
+880,Lead_880,TRUE,12062.54,Cold Call,Finance,37:50.3,36:45.4,72,Product C
+881,Lead_881,TRUE,3688.72,Cold Call,Technology,22:31.4,50:27.0,91,Product D
+882,Lead_882,FALSE,8126.09,Email Campaign,Finance,07:12.4,04:08.6,23,Product D
+883,Lead_883,TRUE,19403.54,Website,Education,51:53.5,17:50.3,46,Product A
+884,Lead_884,FALSE,5533.6,Website,Retail,36:34.6,31:31.9,72,Product C
+885,Lead_885,FALSE,13306.36,Referral,Healthcare,21:15.7,45:13.5,8,Product D
+886,Lead_886,TRUE,6841.21,Website,Education,05:56.8,58:55.1,59,Product C
+887,Lead_887,TRUE,15582.73,Cold Call,Healthcare,50:37.8,12:36.8,90,Product A
+888,Lead_888,FALSE,3052.04,Cold Call,Technology,35:18.9,26:18.4,59,Product A
+889,Lead_889,FALSE,19411.51,Cold Call,Technology,20:00.0,40:00.0,13,Product A
+890,Lead_890,TRUE,9348.9,Referral,Technology,04:41.1,53:41.6,39,Product B
+891,Lead_891,TRUE,5102.98,Cold Call,Healthcare,49:22.2,07:23.2,28,Product C
+892,Lead_892,TRUE,1933.19,Website,Education,34:03.2,21:04.9,89,Product A
+893,Lead_893,TRUE,3810.28,Email Campaign,Technology,18:44.3,34:46.5,61,Product C
+894,Lead_894,TRUE,10635.59,Email Campaign,Education,03:25.4,48:28.1,16,Product B
+895,Lead_895,FALSE,7071.56,Social Media,Healthcare,48:06.5,02:09.7,2,Product B
+896,Lead_896,FALSE,16663.23,Website,Education,32:47.6,15:51.4,82,Product A
+897,Lead_897,FALSE,8902.31,Cold Call,Healthcare,17:28.6,29:33.0,17,Product A
+898,Lead_898,FALSE,5349.93,Email Campaign,Healthcare,02:09.7,43:14.6,30,Product D
+899,Lead_899,TRUE,12534.33,Website,Retail,46:50.8,56:56.2,13,Product C
+900,Lead_900,TRUE,14282.16,Email Campaign,Healthcare,31:31.9,10:37.8,96,Product A
+901,Lead_901,TRUE,3757.32,Cold Call,Healthcare,16:13.0,24:19.5,93,Product D
+902,Lead_902,FALSE,3768.57,Email Campaign,Finance,00:54.1,38:01.1,94,Product C
+903,Lead_903,FALSE,1215.09,Social Media,Technology,45:35.1,51:42.7,82,Product A
+904,Lead_904,TRUE,14859.84,Social Media,Retail,30:16.2,05:24.3,13,Product D
+905,Lead_905,TRUE,13444.19,Email Campaign,Retail,14:57.3,19:05.9,43,Product D
+906,Lead_906,FALSE,9755.3,Website,Retail,59:38.4,32:47.6,85,Product C
+907,Lead_907,FALSE,16961.32,Website,Finance,44:19.5,46:29.2,94,Product D
+908,Lead_908,TRUE,16210.57,Website,Healthcare,29:00.5,00:10.8,21,Product C
+909,Lead_909,TRUE,11914.41,Email Campaign,Technology,13:41.6,13:52.4,55,Product C
+910,Lead_910,FALSE,17431.29,Website,Education,58:22.7,27:34.1,81,Product C
+911,Lead_911,TRUE,4513.9,Cold Call,Healthcare,43:03.8,41:15.7,40,Product B
+912,Lead_912,TRUE,2682.43,Social Media,Finance,27:44.9,54:57.3,83,Product D
+913,Lead_913,TRUE,5760.12,Cold Call,Healthcare,12:25.9,08:38.9,15,Product C
+914,Lead_914,FALSE,1613.19,Website,Healthcare,57:07.0,22:20.5,73,Product A
+915,Lead_915,FALSE,10857.81,Cold Call,Finance,41:48.1,36:02.2,52,Product B
+916,Lead_916,FALSE,18763.81,Website,Retail,26:29.2,49:43.8,74,Product B
+917,Lead_917,FALSE,1267.2,Email Campaign,Retail,11:10.3,03:25.4,95,Product D
+918,Lead_918,FALSE,2881.14,Cold Call,Technology,55:51.4,17:07.0,53,Product C
+919,Lead_919,FALSE,9317.88,Email Campaign,Technology,40:32.4,30:48.6,87,Product D
+920,Lead_920,FALSE,18710.56,Email Campaign,Retail,25:13.5,44:30.3,52,Product B
+921,Lead_921,TRUE,6665.04,Referral,Education,09:54.6,58:11.9,30,Product C
+922,Lead_922,TRUE,10391.08,Website,Healthcare,54:35.7,11:53.5,33,Product A
+923,Lead_923,TRUE,1310.67,Social Media,Education,39:16.8,25:35.1,57,Product C
+924,Lead_924,TRUE,3392.69,Website,Healthcare,23:57.8,39:16.8,52,Product B
+925,Lead_925,TRUE,19739.29,Social Media,Retail,08:38.9,52:58.4,9,Product A
+926,Lead_926,TRUE,19319.81,Website,Technology,53:20.0,06:40.0,54,Product C
+927,Lead_927,TRUE,596.33,Email Campaign,Technology,38:01.1,20:21.6,1,Product A
+928,Lead_928,FALSE,19060.33,Cold Call,Education,22:42.2,34:03.2,44,Product A
+929,Lead_929,FALSE,12962.84,Cold Call,Technology,07:23.2,47:44.9,99,Product B
+930,Lead_930,TRUE,17424.41,Referral,Retail,52:04.3,01:26.5,75,Product A
+931,Lead_931,TRUE,9367.43,Social Media,Education,36:45.4,15:08.1,98,Product D
+932,Lead_932,FALSE,10554.12,Social Media,Healthcare,21:26.5,28:49.7,80,Product B
+933,Lead_933,TRUE,10032.51,Social Media,Technology,06:07.6,42:31.4,9,Product D
+934,Lead_934,TRUE,13503.85,Email Campaign,Finance,50:48.6,56:13.0,32,Product A
+935,Lead_935,FALSE,3223.2,Social Media,Technology,35:29.7,09:54.6,15,Product D
+936,Lead_936,TRUE,1084.49,Cold Call,Healthcare,20:10.8,23:36.2,12,Product C
+937,Lead_937,FALSE,6504.63,Email Campaign,Education,04:51.9,37:17.8,97,Product A
+938,Lead_938,TRUE,14241.27,Website,Healthcare,49:33.0,50:59.5,78,Product C
+939,Lead_939,FALSE,4436.14,Social Media,Finance,34:14.1,04:41.1,57,Product D
+940,Lead_940,FALSE,13631.93,Social Media,Retail,18:55.1,18:22.7,8,Product C
+941,Lead_941,FALSE,19413.28,Website,Technology,03:36.2,32:04.3,72,Product A
+942,Lead_942,TRUE,2331.06,Social Media,Education,48:17.3,45:45.9,27,Product C
+943,Lead_943,FALSE,13615.74,Website,Retail,32:58.4,59:27.6,62,Product D
+944,Lead_944,TRUE,9153.13,Email Campaign,Healthcare,17:39.5,13:09.2,12,Product D
+945,Lead_945,TRUE,17428.77,Cold Call,Education,02:20.5,26:50.8,65,Product D
+946,Lead_946,TRUE,3954.42,Website,Retail,47:01.6,40:32.4,42,Product A
+947,Lead_947,TRUE,14006.21,Referral,Education,31:42.7,54:14.1,62,Product D
+948,Lead_948,FALSE,16843.25,Website,Finance,16:23.8,07:55.7,11,Product A
+949,Lead_949,FALSE,18919.98,Social Media,Finance,01:04.9,21:37.3,43,Product C
+950,Lead_950,TRUE,13823.34,Email Campaign,Technology,45:45.9,35:18.9,95,Product D
+951,Lead_951,TRUE,10194.91,Email Campaign,Technology,30:27.0,49:00.5,17,Product C
+952,Lead_952,FALSE,12548.02,Website,Finance,15:08.1,02:42.2,97,Product B
+953,Lead_953,TRUE,17443.65,Cold Call,Education,59:49.2,16:23.8,32,Product C
+954,Lead_954,FALSE,11626.89,Referral,Finance,44:30.3,30:05.4,93,Product B
+955,Lead_955,TRUE,1092.55,Email Campaign,Technology,29:11.4,43:47.0,85,Product C
+956,Lead_956,TRUE,18653.5,Social Media,Finance,13:52.4,57:28.6,85,Product A
+957,Lead_957,FALSE,13945.77,Social Media,Finance,58:33.5,11:10.3,40,Product C
+958,Lead_958,TRUE,13692.01,Cold Call,Education,43:14.6,24:51.9,23,Product A
+959,Lead_959,FALSE,4705.67,Email Campaign,Retail,27:55.7,38:33.5,56,Product A
+960,Lead_960,TRUE,13348.27,Website,Technology,12:36.8,52:15.1,6,Product D
+961,Lead_961,TRUE,8180.36,Social Media,Education,57:17.8,05:56.8,86,Product A
+962,Lead_962,TRUE,13199.04,Cold Call,Finance,41:58.9,19:38.4,50,Product B
+963,Lead_963,FALSE,2578.56,Email Campaign,Finance,26:40.0,33:20.0,37,Product D
+964,Lead_964,TRUE,13327.98,Email Campaign,Retail,11:21.1,47:01.6,64,Product D
+965,Lead_965,TRUE,19988.57,Email Campaign,Technology,56:02.2,00:43.2,54,Product C
+966,Lead_966,TRUE,1440.13,Email Campaign,Technology,40:43.2,14:24.9,72,Product A
+967,Lead_967,TRUE,19554.9,Email Campaign,Healthcare,25:24.3,28:06.5,49,Product A
+968,Lead_968,FALSE,8434.71,Social Media,Technology,10:05.4,41:48.1,99,Product B
+969,Lead_969,FALSE,17479.69,Cold Call,Retail,54:46.5,55:29.7,11,Product C
+970,Lead_970,TRUE,15756.52,Email Campaign,Healthcare,39:27.6,09:11.4,88,Product C
+971,Lead_971,FALSE,11556.82,Referral,Healthcare,24:08.6,22:53.0,49,Product D
+972,Lead_972,TRUE,14899.76,Referral,Finance,08:49.7,36:34.6,21,Product D
+973,Lead_973,TRUE,17631.05,Cold Call,Finance,53:30.8,50:16.2,66,Product D
+974,Lead_974,TRUE,8380.74,Website,Technology,38:11.9,03:57.8,63,Product B
+975,Lead_975,FALSE,6877.15,Website,Healthcare,22:53.0,17:39.5,83,Product B
+976,Lead_976,FALSE,13518.07,Website,Finance,07:34.1,31:21.1,28,Product D
+977,Lead_977,FALSE,16253,Referral,Retail,52:15.1,45:02.7,17,Product C
+978,Lead_978,FALSE,15364.56,Website,Finance,36:56.2,58:44.3,6,Product B
+979,Lead_979,FALSE,16057.37,Social Media,Finance,21:37.3,12:25.9,19,Product C
+980,Lead_980,FALSE,8993.87,Email Campaign,Healthcare,06:18.4,26:07.6,56,Product C
+981,Lead_981,FALSE,16447.77,Referral,Healthcare,50:59.5,39:49.2,28,Product A
+982,Lead_982,FALSE,2844.08,Cold Call,Education,35:40.5,53:30.8,66,Product D
+983,Lead_983,FALSE,11117.54,Cold Call,Retail,20:21.6,07:12.4,38,Product A
+984,Lead_984,TRUE,612.29,Email Campaign,Healthcare,05:02.7,20:54.1,37,Product D
+985,Lead_985,FALSE,6829.42,Referral,Technology,49:43.8,34:35.7,68,Product D
+986,Lead_986,FALSE,7646,Website,Retail,34:24.9,48:17.3,86,Product C
+987,Lead_987,FALSE,8225.37,Website,Retail,19:05.9,01:58.9,90,Product D
+988,Lead_988,FALSE,14061.61,Social Media,Healthcare,03:47.0,15:40.5,49,Product C
+989,Lead_989,FALSE,8076.88,Social Media,Retail,48:28.1,29:22.2,43,Product C
+990,Lead_990,FALSE,9249.53,Website,Healthcare,33:09.2,43:03.8,36,Product D
+991,Lead_991,FALSE,5132.11,Cold Call,Finance,17:50.3,56:45.4,58,Product C
+992,Lead_992,FALSE,7778.41,Cold Call,Education,02:31.4,10:27.0,13,Product C
+993,Lead_993,FALSE,4931.76,Social Media,Finance,47:12.4,24:08.6,52,Product C
+994,Lead_994,FALSE,1927.32,Email Campaign,Healthcare,31:53.5,37:50.3,58,Product B
+995,Lead_995,FALSE,12267.25,Website,Healthcare,16:34.6,51:31.9,32,Product C
+996,Lead_996,TRUE,13530.15,Social Media,Finance,01:15.7,05:13.5,81,Product B
+997,Lead_997,TRUE,12580.06,Social Media,Technology,45:56.8,18:55.1,60,Product B
+998,Lead_998,FALSE,9538.13,Website,Technology,30:37.8,32:36.8,83,Product C
+999,Lead_999,FALSE,7905.82,Website,Technology,15:18.9,46:18.4,58,Product C
+1000,Lead_1000,TRUE,17335.01,Cold Call,Healthcare,00:00.0,00:00.0,99,Product B
